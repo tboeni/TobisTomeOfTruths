@@ -37,7 +37,9 @@ They are the immortal guardians of the living in Altanarra, however it is unknow
 ### Idris Dawnbringer
 <details>
   <summary>High Inquisitor Idris Dawnbringer</summary>
-  ![Idris Dawnbringer](https://github.com/user-attachments/assets/1e25ccab-4312-459d-a11c-3e5f0a5af7d4)
+
+  ![Idris Dawnbringer](https://github.com/user-attachments/assets/2a1c7f38-f272-4b78-b0e7-8e3123d37bfe)
+
 
 </details>
 
@@ -48,7 +50,6 @@ As the archmage of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/
 The rumors are somewhat true, as Sofos is a [Magus Dragon](https://docs.google.com/document/d/e/2PACX-1vSqiqtMLBS864bmnCuL5CZ4l0Z1QqohkHTgEYCGsmNQR7lf3Nr6ubovXepjor746vpeK6TW_OPdW7tf/pub)
 
 ## Outriders
-
 
 
 ### Idris Dawnbringer
