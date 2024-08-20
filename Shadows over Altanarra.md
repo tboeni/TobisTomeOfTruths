@@ -9,7 +9,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 ## Hyllestad
 ## Daz'alor
 ## Uvenwald
-## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#altanarra)
+## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#altanarra-1)
 ---
 
 # Table of contents
