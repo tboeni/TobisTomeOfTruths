@@ -5,6 +5,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 
 
+## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#altanarra-1)
+**Captiol:** Hearth, the heart of the Altanarran Highlands. Ruled by [King Silas Germaine](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#king-silas-germaine)
 ## The Sharuumian Empire
 **Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
 ## Hyllestad
@@ -12,8 +14,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 ## Daz'alor
 **Captiol:** A'nalone, ruled by a council of chosen representatives of all the different people in Daz'alor
 ## Uvenwald
-**Captiol:** Solaris, the flying city, ruled by the head of Seydir Academy, [Sofos Alitheia]()
-## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#altanarra-1)
+**Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+
 ---
 
 # Altanarra
@@ -23,8 +25,17 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 ---
 
-## Organizations and People of Interest
-### 
+# Organizations and People of Interest
 
+## Order of the Magi
 
-## Locations
+### Sofos Alitheia
+
+## The royal family
+
+### King Silas Germaine
+
+---
+
+# Locations
+## Seydir Academy
