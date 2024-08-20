@@ -27,18 +27,21 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 # Organizations and People of Interest
 
-## Order of the Magi
+## The Order of the Magi
 
 ### Sofos Alitheia
 As the archmage of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), Sofos holds immense magical and political power. He is said to have founded the academy and rumors say that he is the undying patron of [Solaris](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#Solaris). 
 The rumors are somewhat true, as Sofos is a [Magus Dragon](https://docs.google.com/document/d/e/2PACX-1vSqiqtMLBS864bmnCuL5CZ4l0Z1QqohkHTgEYCGsmNQR7lf3Nr6ubovXepjor746vpeK6TW_OPdW7tf/pub)
 
-## The royal family
+## The Royal Family
 
 ### King Silas Germaine
-
+Silas Germaine, current King and 12th of his name, has ruled for over 10 years now. Inhertited the title from his father Theovold Germaine. 
+### Queen Charlotte Germaine
+### Princess Leda Germaine
+### Prince Roderik Germaine
 ---
 
 # Locations
-## Solaris
-### Seydir Academy
+
+## Seydir Academy
