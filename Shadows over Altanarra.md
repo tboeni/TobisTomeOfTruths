@@ -32,7 +32,7 @@ Fanatics trying to somehow bring back the endtimes and restore the former lich-a
 The Cult occupied small hideouts all over Altanarra. 
 
 ## Forsworn
-The highest ranking paladings of the [Outriders](ttps://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
+The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
 They are the immortal guardians of the living in Altanarra, however it is unknown who these High Inquistors are and even their existence is a myth. In the rare cases that someone had seens a glimpse of an High Inquisitor they simply saw armorered holy warriors their faces hidden behind adorned helmets encircled by a sanguine halo 
 ### Idris Dawnbringer
 <details>
