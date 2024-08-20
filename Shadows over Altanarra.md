@@ -30,6 +30,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 ## Order of the Magi
 
 ### Sofos Alitheia
+As the archmage of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), Sofos holds immense magical and political power. He is said to have founded the academy and rumors say that he is the undying patron of [Solaris](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#Solaris). 
+The rumors are somewhat true, as Sofos is a [Magus Dragon](https://docs.google.com/document/d/e/2PACX-1vSqiqtMLBS864bmnCuL5CZ4l0Z1QqohkHTgEYCGsmNQR7lf3Nr6ubovXepjor746vpeK6TW_OPdW7tf/pub)
 
 ## The royal family
 
@@ -38,4 +40,5 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 ---
 
 # Locations
-## Seydir Academy
+## Solaris
+### Seydir Academy
