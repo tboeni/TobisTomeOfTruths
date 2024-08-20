@@ -7,13 +7,13 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 ## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#altanarra-1)
 **Captiol:** Hearth, the heart of the Altanarran Highlands. Ruled by [King Silas Germaine](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#king-silas-germaine)
-## The Sharuumian Empire
+## The Jaroomian Empire
 **Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
 ## Hyllestad
 **Captiol:** Drunvold, Clan Rimefang hold dominion over Drunvold and thus has the final word and sway over all the other clans. Chieftain Yvar Trollbane leads Clan Rimefang
 ## Daz'alor
 **Captiol:** A'nalone, ruled by a council of chosen representatives of all the different people in Daz'alor
-## Uvenwald
+## Ulwenwald
 **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
 
 ---
@@ -27,16 +27,38 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 # Organizations and People of Interest
 
-## The Order of the Magi
+## Cult of Szur
+Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Zurs Phylactery for a dark ritual. The High Inquisitors are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
+The Cult occupied small hideouts all over Altanarra. 
+
+## Forsworn
+The highest ranking paladings, the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
+They are the immortal guardians of the living in Altanarra, however it is unknown who these High Inquistors are and even their existence is a myth. In the rare cases that someone had seens a glimpse of an High Inquisitor they simply saw armorered holy warriors their faces hidden behind adorned helmets encircled by a sanguine halo 
+### Idris Dawnbringer
+<details>
+  <summary>High Inquisitor Idris Dawnbringer</summary>
+  ![Idris Dawnbringer](https://github.com/user-attachments/assets/1e25ccab-4312-459d-a11c-3e5f0a5af7d4)
+
+</details>
+
+## Order of the Magi
 
 ### Sofos Alitheia
 As the archmage of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), Sofos holds immense magical and political power. He is said to have founded the academy and rumors say that he is the undying patron of [Solaris](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#Solaris). 
 The rumors are somewhat true, as Sofos is a [Magus Dragon](https://docs.google.com/document/d/e/2PACX-1vSqiqtMLBS864bmnCuL5CZ4l0Z1QqohkHTgEYCGsmNQR7lf3Nr6ubovXepjor746vpeK6TW_OPdW7tf/pub)
 
-## The Royal Family
+## Outriders
+
+
+
+### Idris Dawnbringer
+Former hero, now masked High Inquisitor of the Outriders
+
+## Royal Family
 
 ### King Silas Germaine
-Silas Germaine, current King and 12th of his name, has ruled for over 10 years now. Inhertited the title from his father Theovold Germaine. 
+Silas Germaine, current King and 12th of his name, has ruled for over 10 years now. Inhertited the title from his father Theovold Germaine.
+A benevolent and just ruler, loved by his people, respected and feared his adversaries. 
 ### Queen Charlotte Germaine
 ### Princess Leda Germaine
 ### Prince Roderik Germaine
