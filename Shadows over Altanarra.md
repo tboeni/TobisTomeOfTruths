@@ -6,31 +6,25 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 
 ## The Sharuumian Empire
+**Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
 ## Hyllestad
+**Captiol:** Drunvold, Clan Rimefang hold dominion over Drunvold and thus has the final word and sway over all the other clans. Chieftain Yvar Trollbane leads Clan Rimefang
 ## Daz'alor
+**Captiol:** A'nalone, ruled by a council of chosen representatives of all the different people in Daz'alor
 ## Uvenwald
+**Captiol:** Solaris, the flying city, ruled by the head of Seydir Academy, [Sofos Alitheia]()
 ## [Altanarra](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#altanarra-1)
 ---
-
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
 
 # Altanarra
 
 
 ![Altanarra](https://github.com/user-attachments/assets/aa4abfa1-22e8-44bd-8992-356b2bac94a8)
+
+---
+
+## Organizations and People of Interest
+### 
+
+
+## Locations
