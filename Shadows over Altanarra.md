@@ -48,15 +48,20 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   
   # Locations
 
-  ## Borrsted
-  ## Duskhaven
-  ## Forlon Forest
-  ## Grenzstad
   ## Hearth
+  ## Nordemar
+  ### Riverheart
+  ## Ostemar
+  ### Borrsted
+  ## Sodemar
+  ### Duskhaven
+  ### Grenzstad
+  ## Westemar
+  ### Retgard
+  ## Forlon Forest
   ## Lake Morrighan
-  ## Retgard
-  ## Riverheart
-  ## Seydir Academy
+  ## Non-Altanarran
+  ### Seydir Academy
   # Organizations and People of Interest
   
   ## Cult of Szur
