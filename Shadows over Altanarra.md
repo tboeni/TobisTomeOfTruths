@@ -4,13 +4,14 @@ The plane of existence the adventure takes place. Equivalent of the material pla
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
 
 
-<details>
-  ## <summary>Altanarra</summary>
+ <details>
+  <summary><h2>Altanarra</summary>
+    
   **Captiol:** Hearth, the heart of the Altanarran Highlands. Ruled by [King Silas Germaine](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#king-silas-germaine)
   ![Altanarra](https://github.com/user-attachments/assets/aa4abfa1-22e8-44bd-8992-356b2bac94a8)
   
-  ---
-  
+
+
   # Organizations and People of Interest
   
   ## Cult of Szur
