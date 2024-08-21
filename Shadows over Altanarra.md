@@ -80,6 +80,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   </details>
   
   ## Order of the Magi
+
+  ### Selinesta
   
   ### Sofos Alitheia
   As the archmage of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), Sofos holds immense magical and political power. He is said to have founded the academy and rumors say that he is the undying patron of [Solaris](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#Solaris). 
@@ -93,9 +95,21 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   </details>
   
   ## Outriders
+
+  The Outriders are a faction of paladins which overtime grew independent from the church of Ilmather and the kingdom as a whole. They stand to protect and eradicate the undeads scourging the lands at any cost necessary. The common folk are torn between admiration, respect and fear of the order, as they sometimes leave crops and even villages devastated after a purification crusade. Although the number of paladins is rather small, they managed to amass a sizable following of supporters, zealots and mercenaries to their cause. Hence not every member of the echelon is a paladin themselves, though the holy warriors decorate higher ranks crowned by the High Inquisitors. Mostly unknown figures, their faces hidden behind adorned helmets. Only their golden glowing eyes piercing the masks and a shining halo around their heads. Perfect and chosen they guide the Outriders to their goal of crushing the undead underfoot.
+There are 5 High Inquisitors, with different Oaths and different fighting styles.
+<details>
+ <summary>Outriders</summary>
+
+ ![Outriders](https://github.com/user-attachments/assets/6a5286d7-4b81-48f1-b255-24f5ff3e40eb)
+
+</details>
+
+The Outriders will be neutral towards the adventurers and will not interfere (at the start) with their quest. This will only happen after a given time (Mercenaries etc. coming after them). If the Cult has amassed a critical amount of Shards, the Paladins will eradicate them (possibly together with the adventurers) and keep the fragments for themselves. Players will then need to find out the truth behind the Paladins (Forsworn Liches and the holy warrior [Idris Dawnbringer](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#idris-dawnbringer) is their commander). 
+The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#selinesta)) will be of crucial importance to unveil their plans and help the adventurers further their goals. 
+
   
-  
-  ## Royal Family
+  ## Royal Family // House Germaine
   
   ### King Silas Germaine
   Silas Germaine, current King and 12th of his name, has ruled for over 10 years now. Inhertited the title from his father Theovold Germaine.
