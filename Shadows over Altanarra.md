@@ -39,18 +39,28 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
  </details>
 
  ---
- <details>
+ <details open>
   <summary><h1>Altanarra</summary>
     
   **Captiol:** Hearth, the heart of the Altanarran Highlands. Ruled by [King Silas Germaine](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#king-silas-germaine)
   ![Altanarra](https://github.com/user-attachments/assets/aa4abfa1-22e8-44bd-8992-356b2bac94a8)
+
   
+  # Locations
 
-
+  ## Borrsted
+  ## Duskhaven
+  ## Forlon Forest
+  ## Grenzstad
+  ## Hearth
+  ## Lake Morrighan
+  ## Retgard
+  ## Riverheart
+  ## Seydir Academy
   # Organizations and People of Interest
   
   ## Cult of Szur
-  Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Zurs Phylactery for a dark ritual. The High Inquisitors are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
+  Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Szurs Phylactery for a dark ritual. The [High Inquisitors](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
   The Cult occupied small hideouts all over Altanarra. 
   
   ## Forsworn
@@ -60,7 +70,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   <details>
     <summary>High Inquisitor Idris Dawnbringer</summary>
   
-    ![Idris Dawnbringer 2 0](https://github.com/user-attachments/assets/307b0052-11a7-461b-b80e-57c2c36dbede)
+   ![Idris Dawnbringer 2 0](https://github.com/user-attachments/assets/307b0052-11a7-461b-b80e-57c2c36dbede)
   
   </details>
   
@@ -83,9 +93,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ### Prince Roderik Germaine
   ---
   
-  # Locations
-  
-  ## Seydir Academy
+
 
 
 </details>
