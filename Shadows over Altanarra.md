@@ -38,8 +38,7 @@ They are the immortal guardians of the living in Altanarra, however it is unknow
 <details>
   <summary>High Inquisitor Idris Dawnbringer</summary>
 
-  ![Idris Dawnbringer](https://github.com/user-attachments/assets/2a1c7f38-f272-4b78-b0e7-8e3123d37bfe)
-
+  ![Idris Dawnbringer 2 0](https://github.com/user-attachments/assets/307b0052-11a7-461b-b80e-57c2c36dbede)
 
 </details>
 
