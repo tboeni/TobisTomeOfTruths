@@ -3,7 +3,32 @@
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
 
+<details>
+ <summary><h2>The Jaroomian Empire</h2></summary>
+ 
+ The Jaroomian Empire lies far to the West, separated from the rest of Omnia by a natural mountain side, tall and fierce. Due to that fact, most contact with the center nations is limited to only the occasional traders by boat or caravan.
+ The Empire is ruled by the Thunder King, a figure appearing in legends for many decades. Their beliefs are tribal and the land a lush and vibrant jungle.
+ **Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
+ 
+ </details>
+ <details>
+ <summary><h2>Hyllestad</h2></summary>
+ 
+ A cold and harsh land, ruled by clans and its unforgiving environment. Clan Rykke holds the title of strongest for several decades and is thus by right entitled to the rule of Hyllestad. Quarrels among the clans are no rarity, duels for honor and glory neither. 
+ **Captiol:** Drunvold, Clan Rykke holds dominion over Drunvold and thus has the final word and sway over all the other clans. Chieftain Yvar Trollbane leads Clan Rykke
 
+ </details>
+ <details>
+ <summary><h2>Daz'alor</h2></summary>
+ Bordering to the Southeast Altanarra lies the kingdom of non-humans, forest- and mountain-dwellers. The different races inhabiting the area follow the leadership of the “Speakers”. Delegated envoys, old and wise of each of the races inhabiting Daz’alor.
+ **Captiol:** A'nalone, ruled by a council of chosen representatives of all the different people in Daz'alor
+  
+ </details>
+ <details>
+ <summary><h2>Ulwenwald</h2></summary>
+ The neutral land centering Omnia. Home to Solaris, the flying city, and birthplace of many a powerful magic user. A neutral country, striding for progress and peace. Solaris sends advisors to the most powerful houses in each of the kingdoms to influence and guide them towards a better future. Each kingdom has 5 magic users at their disposal.
+ **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+ </details>
  <details>
   <summary><h2>Altanarra</summary>
     
@@ -55,22 +80,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 </details>
 
-## The Jaroomian Empire
-The Jaroomian Empire lies far to the West, separated from the rest of Omnia by a natural mountain side, tall and fierce. Due to that fact, most contact with the center nations is limited to only the occasional traders by boat or caravan.
-The Empire is ruled by the Thunder King, a figure appearing in legends for many decades. Their beliefs are tribal and the land a lush and vibrant jungle.
-**Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
-## Hyllestad
-A cold and harsh land, ruled by clans and its unforgiving environment. Clan Rykke holds the title of strongest for several decades and is thus by right entitled to the rule of Hyllestad. Quarrels among the clans are no rarity, duels for honor and glory neither. 
-**Captiol:** Drunvold, Clan Rykke holds dominion over Drunvold and thus has the final word and sway over all the other clans. Chieftain Yvar Trollbane leads Clan Rykke
-## Daz'alor
-Bordering to the Southeast Altanarra lies the kingdom of non-humans, forest- and mountain-dwellers. The different races inhabiting the area follow the leadership of the “Speakers”. Delegated envoys, old and wise of each of the races inhabiting Daz’alor.
-**Captiol:** A'nalone, ruled by a council of chosen representatives of all the different people in Daz'alor
-## Ulwenwald
-The neutral land centering Omnia. Home to Solaris, the flying city, and birthplace of many a powerful magic user. A neutral country, striding for progress and peace. Solaris sends advisors to the most powerful houses in each of the kingdoms to influence and guide them towards a better future. Each kingdom has 5 magic users at their disposal.
-**Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+
 
 ---
-
-# Altanarra
 
 
