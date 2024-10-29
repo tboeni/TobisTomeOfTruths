@@ -75,6 +75,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ### Grenzstad
 
   The largest most southern town of Sodemar. A rather poor place, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg]() who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
+  The inn is lead by [Miryam Bell]()
+  The head priest of the shrine is [Patrick Harper]()
   
   ## Westemar
   ### Retgard
