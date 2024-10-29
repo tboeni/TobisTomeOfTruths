@@ -1,4 +1,4 @@
-# Omnia 
+![White tree and Palace](https://github.com/user-attachments/assets/265f5120-4619-4961-b73d-dc9a86845d08)# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
@@ -51,7 +51,10 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
   ## Hearth
   The bustling capitol of Altanarra. Much like the sigil of the country, the cities structure is reminicent of a great tree. Towering over the rest of Hearth is the "Crown" where the white tree, symbol of Altanarra, resides and the royal palace is situated. Some of the nobles are also allowed to reside in their mansions here. The Crown is separated by massive walls from the lower district the "Branches" where most of the trading and education is done. The main barracks are also found here as well as the tall church of Ilmather. The people living in the Branches are mostly wealthy trades people and other people of middle to higher social status. Again separated by thick walls in the lowest parts of Hearth one find the "Roots". Most of the poorer common folk is situated here. But most things can be found here as well, just of lesser quality most of the times. Thhe people are not wealthy but mostly content here. There is crime but not rampant.
+
+  ![Uploading White tree and Palace.png…]()
   ## Nordemar
+
   ### Riverheart
   ## Ostemar
   ### Borrsted
