@@ -66,12 +66,12 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ## Sodemar
   ### Duskhaven
   <details>
-<summary>Castle Grenzstadt</summary>
+   <summary>Castle Dusk</summary>
 
-![Castle Dusk](https://github.com/user-attachments/assets/21e5fc57-cbac-4878-90d3-e0944ed2c7f4)
-
- 
-</details>
+   ![Castle Grenzstadt](https://github.com/user-attachments/assets/21e5fc57-cbac-4878-90d3-e0944ed2c7f4)
+  
+  </details>
+  
   ### Grenzstad
   ## Westemar
   ### Retgard
