@@ -35,7 +35,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
  <details>
  <summary><h1>Ulwenwald</h2></summary>
  The neutral land centering Omnia. Home to Solaris, the flying city, and birthplace of many a powerful magic user. A neutral country, striding for progress and peace. Solaris sends advisors to the most powerful houses in each of the kingdoms to influence and guide them towards a better future. Each kingdom has 5 magic users at their disposal.
- **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+ **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academ](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+ 
  </details>
 
  ---
