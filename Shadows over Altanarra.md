@@ -58,8 +58,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 
  </details>
+ 
   ## Nordemar
-
   ### Riverheart
   ## Ostemar
   ### Borrsted
