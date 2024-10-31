@@ -74,9 +74,15 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   
   ### Grenzstad
 
-  The largest most southern town of Sodemar. A rather poor place, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg]() who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
-  The **Sleepy Hedgehog Inn** is lead by [Miryam Bell](). There are some simple vendors found on a crude market place selling general goods, groceries and the occasional weapon.
-  The priest of the shrine is [Patrick Harper]() 
+  The largest most southern town of Sodemar. A rather poor place, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#frederic-thornberg) who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
+  The **Sleepy Hedgehog Inn** is lead by [Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#myriam-bell). There are some simple vendors found on a crude market place selling general goods, groceries and the occasional weapon.
+  The priest of the shrine is [Patrick Harper](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#patrick-harper) 
+  <details>
+  <summary>Sleepy Hedgehog Inn</summary>
+
+  The inn is nothing but a very ordinary inn. It is a two story building with the ground floor being the tavern area. Upon entering the inn, you greeted by a crackling fire place, the smell of fresh ale on old wood and the kind smile of the innkeeper ([Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#myriam-bell)) behind the counter. One thing that is out of the ordinary though is the amount of hedgehog carvings littered throughout the tavern, somebody really likes hedgehogs here. The place is busy in the evenings and only some customers frequent during the day. Prices are reasonable but not cheap.
+   
+  </details>
   
   ## Westemar
   ### Retgard
