@@ -142,6 +142,7 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
  First-born of the youngest line of house Germaine, Leda is as much of a warrior as one can be. As her ascendence to ruler is prohibited by her gender, she dedicated her life to the sword. Despite her still rather young age, she already rose to the rank of Captain. Currently stationed close the Borrsted she will be spending her time mostly in that region following her duties as captain.
  ### Prince Roderik Germaine
  Contrary to his sister Roderik is no fighter at all. A charming young man with a muse for the arts. He seems to have his head in the clouds sometimes and this worries his father as he is yet unfit to rule a kingdom. Silas sneaks out to play his lute with the art students at the academy, attend plays, visiting a tavern in disguise etc. Though not versed in magic per se he certainly has a affinity for it. 
+ 
 ---
   
 ## People of Grenzstad
