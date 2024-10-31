@@ -75,7 +75,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ### Grenzstad
 
   The largest most southern town of Sodemar. A rather poor place, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg]() who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
-  The inn is lead by [Miryam Bell](). (She is part of the Cult, sending the adventurers on a quest to the first shard. And tries to take it from them when they are weakended)
+  The **Sleepy Hedgehog Inn** is lead by [Miryam Bell](). There are some simple vendors found on a crude market place selling general goods, groceries and the occasional weapon.
   The priest of the shrine is [Patrick Harper]() 
   
   ## Westemar
@@ -141,7 +141,7 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
  ### Princess Leda Germaine
  First-born of the youngest line of house Germaine, Leda is as much of a warrior as one can be. As her ascendence to ruler is prohibited by her gender, she dedicated her life to the sword. Despite her still rather young age, she already rose to the rank of Captain. Currently stationed close the Borrsted she will be spending her time mostly in that region following her duties as captain.
  ### Prince Roderik Germaine
-  Contrary to his sister Roderik is no fighter at all. A charming young man with a muse for the arts. He seems to have his head in the clouds sometimes and this worries his father as he is yet unfit to rule a kingdom. Silas sneaks out to play his lute with the art students at the academy, attend plays, visiting a tavern in disguise etc. Though not versed in magic per se he certainly has a affinity for it. 
+ Contrary to his sister Roderik is no fighter at all. A charming young man with a muse for the arts. He seems to have his head in the clouds sometimes and this worries his father as he is yet unfit to rule a kingdom. Silas sneaks out to play his lute with the art students at the academy, attend plays, visiting a tavern in disguise etc. Though not versed in magic per se he certainly has a affinity for it. 
 ---
   
 ## People of Grenzstad
@@ -149,9 +149,9 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
 An older gentleman, sporting a sruff of grey hair on his chin and a slightly hunched back. He is welcoming towards newcomers but clearly is trying to put out the fires of disconcern in his small town with varying success. Frederic is desperate to be rid of the increasing mass of undead roaming the lands under his governance. Generally the people are fond of him but also are neutral towards him as a governor as he was the burgermaster for a long-time and somebody had to step up at that time as nobody wanted to do it. He is a former farmer and misses that time as he had to give it up for his governmental duties and he spends his few hours off duty on the farm of his son Ben Thornberg just beyond the town. He harbors disdain for the outriders and some degree towards the army as they all ignored his pleas as the matter is of too little importance (this is why he got the bounty for the dispatch of the source of the surge of undead)
 
 ### Myriam Bell
-
+Matron of the **Sleepy Hedgehog Inn** and a stout woman. Hearty of character, motherly in tone and open for anyone who wishes to rest at her inn. She likes to gossip and keeps tabs on everybody she can prodding the drunks at her tavern, sometimes bribing them with another shot on the house. Myriam will the tell the charactes of the bounty that was issued by the burgermaster and send them on their way to him for further information.  
 ### Patrick Harper
-
+Harper is the resident man of the cloth in Grenzstad. He does not posses any holy powers but tends to the sick and wounded nontheless to the best of his abilites. He lives and worships in the small shrine towards the edge of town. He is a devout man following the teachings of the church of Ilamther to a T. He is willing to inform the players of the principles of the church if they are unaware, as he desires to spread to good word of Ilmather and will try to rope them into joining his prayer very soon into the conversation if they decided to question him about Ilmather. If the players decide to indulge he will offer them a healing potion as a reward for accepting the spirit of Ilmather. 
 
 ---
 
