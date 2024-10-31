@@ -142,9 +142,7 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
  First-born of the youngest line of house Germaine, Leda is as much of a warrior as one can be. As her ascendence to ruler is prohibited by her gender, she dedicated her life to the sword. Despite her still rather young age, she already rose to the rank of Captain. Currently stationed close the Borrsted she will be spending her time mostly in that region following her duties as captain.
  ### Prince Roderik Germaine
  Contrary to his sister Roderik is no fighter at all. A charming young man with a muse for the arts. He seems to have his head in the clouds sometimes and this worries his father as he is yet unfit to rule a kingdom. Silas sneaks out to play his lute with the art students at the academy, attend plays, visiting a tavern in disguise etc. Though not versed in magic per se he certainly has a affinity for it. 
- 
----
-  
+   
 ## People of Grenzstad
 ### Frederic Thornberg
 An older gentleman, sporting a sruff of grey hair on his chin and a slightly hunched back. He is welcoming towards newcomers but clearly is trying to put out the fires of disconcern in his small town with varying success. Frederic is desperate to be rid of the increasing mass of undead roaming the lands under his governance. Generally the people are fond of him but also are neutral towards him as a governor as he was the burgermaster for a long-time and somebody had to step up at that time as nobody wanted to do it. He is a former farmer and misses that time as he had to give it up for his governmental duties and he spends his few hours off duty on the farm of his son Ben Thornberg just beyond the town. He harbors disdain for the outriders and some degree towards the army as they all ignored his pleas as the matter is of too little importance (this is why he got the bounty for the dispatch of the source of the surge of undead)
