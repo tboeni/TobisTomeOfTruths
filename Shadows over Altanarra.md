@@ -196,7 +196,15 @@ Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with t
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
 A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other baron. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda]() who is to be wed to a suitor soon but the arrangements have yet to be made. His wife Katarina died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
+Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their disposal.
 
+<details>
+ <summary>Gerrad Driscoll</summary>
+
+![image](https://github.com/user-attachments/assets/cfef7d18-249b-46ec-b52f-fbaf18c7e75d)
+
+ 
+</details>
 ---
 
 
