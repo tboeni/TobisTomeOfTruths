@@ -58,13 +58,19 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 
  </details>
- 
+
+  ## Heartlands
+  ### Hearth
   ## Nordemar
   ### Riverheart
   ## Ostemar
   ### Borrsted
   ## Sodemar
+  The most Southern province of Altanarra, bordering to [Ulvenwald]() in the South, the massive [Dragonridge Mountains]() in the East, the mysterious [Forlonn Forest]() to the North and Hearthlands to the West. The Province is neither poor nor wealthy as most of its trade is compromised of Stone harvested from quarries along the mountainside and wood. Most of the populace is involed in the production of one of these goods, farming or fishing (especially around Lake Morrighan). [Gerrad Driscoll]() is the magistrate ruling the province from his castle in **Duskhaven** advised by [Inyll]() a mage of Seydir Academy. Traders from outside are rare but not unusual as [Ulvenwald]() is closeby. The people are not afraid of newcomers but weary nontheless as the conflict on the Southeastern borders are present on the poeples mind.
+  
   ### Duskhaven
+  Captiol of Sodemar, the largest town of the province, bustling streets with merchants and tradespeople, many goods, equipment and baubles can be found here for a price. Most people are working class. The town is encolsed by thick city walls protected by the towns very own guards who are patrolling the streets, keeping law and order. A barracks of the royal army can be found here commandeered by [Knight Captain Thelian Lagon]() which is off limits to outsiders except by direct invitation or royal decree. Although the army has a foothold in the city they are only called upon in times of need if there are major attacks or other dangers that threaten the safety of the town or province. The church of Ilmather is found here as well lead by [Highpriestess Ludmilla Ocatan](). [The Collegium]() has a branch of their academy here where aspiring scholars and the offspirng of the upper echelon are trained and if they show potential sent to the academy in Hearth. [Magistrate Gerrad Driscoll] resides in Duskhaven in **Castle Dusk** from where he rules the province.
+
   <details>
    <summary>Castle Dusk</summary>
 
@@ -74,13 +80,13 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   
   ### Grenzstad
 
-  The largest most southern town of Sodemar. A rather poor place, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#frederic-thornberg) who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
-  The **Sleepy Hedgehog Inn** is lead by [Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#myriam-bell). There are some simple vendors found on a crude market place selling general goods, groceries and the occasional weapon.
-  The priest of the shrine is [Patrick Harper](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#patrick-harper) 
+  The most southern town of Sodemar. A rather poor place in perspective of the rest of Sodemar, made up by mostly trades people and farmers. A small shirne to Ilmather is located here, but no priest with divine powers resides in Grenzstad. There is a single inn where a bed for the night can be rented. The town is lead by Ealdorman [Frederic Thornberg](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#frederic-thornberg) who also issued the contract about the shadowy figures haunting the surroundings of Grenzstad at night.
+  The **Sleepy Hedgehog Inn** is lead by [Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#myriam-bell). There are some simple vendors found on a crude market place selling general goods, groceries and the occasional weapon.
+  The priest of the shrine is [Patrick Harper](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#patrick-harper) 
   <details>
   <summary>Sleepy Hedgehog Inn</summary>
 
-  The inn is nothing but a very ordinary inn. It is a two story building with the ground floor being the tavern area. Upon entering the inn, you greeted by a crackling fire place, the smell of fresh ale on old wood and the kind smile of the innkeeper ([Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#myriam-bell)) behind the counter. One thing that is out of the ordinary though is the amount of hedgehog carvings littered throughout the tavern, somebody really likes hedgehogs here. The place is busy in the evenings and only some customers frequent during the day. Prices are reasonable but not cheap.
+  The inn is nothing but a very ordinary inn. It is a two story building with the ground floor being the tavern area. Upon entering the inn, you greeted by a crackling fire place, the smell of fresh ale on old wood and the kind smile of the innkeeper ([Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#myriam-bell)) behind the counter. One thing that is out of the ordinary though is the amount of hedgehog carvings littered throughout the tavern, somebody really likes hedgehogs here. The place is busy in the evenings and only some customers frequent during the day. Prices are reasonable but not cheap.
    
   </details>
   
@@ -91,6 +97,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ## Non-Altanarran
   ### Seydir Academy
   # Organizations and People of Interest
+
+  ## The Collegium
   
   ## Cult of Szur
   Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Szurs Phylactery for a dark ritual. The [High Inquisitors](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
@@ -120,6 +128,33 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
    ![Magus Dragon - Sofos Alitheia](https://github.com/user-attachments/assets/85024c02-383e-4b2f-9331-94dff4579017)
 
    
+  </details>
+
+  ## The Curch of Ilmather
+
+  One of the three pillars of might in Altanarra. The church of Ilmather builds the foundation of faith in the kingdom and preaches sacrifice and endurance as a virtue and necessity for the blessing of Ilmather. Enduring tragedy is but another test of their god and all in his will. The priests will help almost anyone in need, sacrificing their last possesions if must be as it is in the spirit of Ilmather. As this is why often the priests of Ilmather are seem with worn robes and bearly any possessions of their own. The **Cathedral of Salvation**, the most holy place in Altanarra and seat of [The Speaker](), is situated in Retgard to the Northwest. As a consequence, the townsfolk are very pious and the influence of the church can be felt throughout the whole town and its neighboring villages.
+
+<details>
+ <summary>Cathedral of Salvation</summary>
+</details>
+
+### The Speaker
+ Chosen presumably by Ilmather himself to be his voice on the material plane. The Speaker has given up his former name and allegiances to fully embrace his divine calling of leading the church in the name and will of Ilmather and guiding all the lost souls of Altanarra and the whole of Omnia to salvation. Most people have only seen glimpses of him when he speaks with a booming voice filled with divine power to the people of Altanarra. His face and body hidden by an unpiercable veil his former identity remains a mystery.
+The speaker is very well aware of the existence and origin of the [Forsworn](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) and has deemed their sacrifice as worthy of Ilmathers mercy.
+ 
+<details>
+<summary>The Speaker</summary>
+ 
+ ![image](https://github.com/user-attachments/assets/904f5483-0282-4dd1-98ba-982cb896f30c)
+
+</details>
+
+
+  <details>
+  <summary>Symbol of Ilmather</summary>
+   
+   ![image](https://github.com/user-attachments/assets/a35b1683-4b1e-42ae-a8d7-c19c50c6d3c5)
+
   </details>
   
   ## Outriders
@@ -154,9 +189,13 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
 An older gentleman, sporting a sruff of grey hair on his chin and a slightly hunched back. He is welcoming towards newcomers but clearly is trying to put out the fires of disconcern in his small town with varying success. Frederic is desperate to be rid of the increasing mass of undead roaming the lands under his governance. Generally the people are fond of him but also are neutral towards him as a governor as he was the burgermaster for a long-time and somebody had to step up at that time as nobody wanted to do it. He is a former farmer and misses that time as he had to give it up for his governmental duties and he spends his few hours off duty on the farm of his son Ben Thornberg just beyond the town. He harbors disdain for the outriders and some degree towards the army as they all ignored his pleas as the matter is of too little importance (this is why he got the bounty for the dispatch of the source of the surge of undead)
 
 ### Myriam Bell
-Matron of the **Sleepy Hedgehog Inn** and a stout woman. Hearty of character, motherly in tone and open for anyone who wishes to rest at her inn. She likes to gossip and keeps tabs on everybody she can prodding the drunks at her tavern, sometimes bribing them with another shot on the house. Myriam will the tell the charactes of the bounty that was issued by the burgermaster and send them on their way to him for further information.  
+Matron of the **Sleepy Hedgehog Inn** and a stout woman. Her darkblonde hair is neatly braided around her head. She wears an apron over her working clothes. Hearty of character, motherly in tone and open for anyone who wishes to rest at her inn. She likes to gossip and keeps tabs on everybody she can prodding the drunks at her tavern, sometimes bribing them with another shot on the house. Myriam will the tell the charactes of the bounty that was issued by the burgermaster and send them on their way to him for further information.  
 ### Patrick Harper
-Harper is the resident man of the cloth in Grenzstad. He does not posses any holy powers but tends to the sick and wounded nontheless to the best of his abilites. He lives and worships in the small shrine towards the edge of town. He is a devout man following the teachings of the church of Ilamther to a T. He is willing to inform the players of the principles of the church if they are unaware, as he desires to spread to good word of Ilmather and will try to rope them into joining his prayer very soon into the conversation if they decided to question him about Ilmather. If the players decide to indulge he will offer them a healing potion as a reward for accepting the spirit of Ilmather. 
+Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with thick darkbrown hair falling from his brow. Patrick wears a worn robe of Ilmather sporting the withe base color and the thick red trimmings. Around his neck hangs the symbol of Ilmather, two hands bound by a red string. If the players pay attention and succeed on a perception check they will notice scars on his hands and arms where his robes move, which is a known practise of the followers of Ilmather. He does not posses any holy powers but tends to the sick and wounded nontheless to the best of his abilites. He lives and worships in the small shrine towards the edge of town. He is a devout man following the teachings of the church of Ilamther to a T. He is willing to inform the players of the principles of the church if they are unaware, as he desires to spread to good word of Ilmather and will try to rope them into joining his prayer very soon into the conversation if they decided to question him about Ilmather. If the players decide to indulge he will offer them a healing potion as a reward for accepting the spirit of Ilmather. 
+
+## Magistrates of Altanarra
+### Gerrad Driscoll
+A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other baron. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda]() who is to be wed to a suitor soon but the arrangements have yet to be made. His wife Katarina died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
 
 ---
 
