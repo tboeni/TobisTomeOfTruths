@@ -3,12 +3,17 @@ For Dnd and Such
 
 ## Altanarra Homebrew Rules
 
-* Brutal Criticals
-* Lingering Death Saves
-* Hidden Death Save Rolls
-* Potions as Action, Bonus Action or Interaction (Dimishing quality of results)
-* Preferably no "Lucky" feat
-* No need for ammunition or spell component tracking
+### DM suggestions:
+
+* [x] Brutal Criticals
+* [x] Lingering Death Saves 
+* [x] Hidden Death Save Rolls
+* [x] Potions as Action, Bonus Action or Interaction (Dimishing quality of results) --> administer potion (action)
+* [x] Preferably no "Lucky" feat (another check in required)
+* [x] No need for ammunition or spell component tracking
+* [x] Open Roll by the DM
+* [x] Unsheathed Weapons for Casting
+* [x] Flanking +2 to the Attack Roll
 
 ## Altanarra Base Workings
 
