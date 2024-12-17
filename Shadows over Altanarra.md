@@ -92,6 +92,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   
   ## Westemar
   ### Retgard
+  Captiol city of Westemar and home to the [Cathedral of Salvation]() and thus being a known location for pilgrims and believers all over the kingdom. Religion is part of almost every facet of live in Retgard and the pious out weigh the religously ambigious people by a landslide. As a consequence of church of Ilmather's influence, many forms of religiously infuced teachings have arised including monestaries, schools and even a lower academy. People not following the beliefs of Ilmather tend to turn away from Retgard or even Westemar as a whole or try to forge a path with other "non-religious renegardes". Retgard is governed my [Magistrate William Livingston]() who resides in the [Red Keep]().
+  
   ## Forlon Forest
   ## Lake Morrighan
   ## Non-Altanarran
@@ -205,6 +207,9 @@ Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their 
 
  
 </details>
+
+### William Livingston
+
 ---
 
 
