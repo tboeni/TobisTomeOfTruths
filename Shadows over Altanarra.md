@@ -92,6 +92,17 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
    
   </details>
+
+  <details>
+  <summary>The Abandoned Graveyard</summary>
+
+  A former apprentice of the magical arts has been risen into undeath here and it creates undead from the corperses in the cementary and the fallen around the village of Grenzstad.
+  The wizard apprentice is of house [**Valk**]()
+
+  ![image](https://github.com/user-attachments/assets/8e1e45bf-7c39-4a21-8b1c-fa7416f540bd)
+
+
+  </details>
   
   ## Westemar
   ### Retgard
@@ -210,7 +221,7 @@ Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with t
 
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
-A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other baron. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda]() who is to be wed to a suitor soon but the arrangements have yet to be made. His wife Katarina died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
+A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other magistrate. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda]() who is to be wed to a suitor soon but the arrangements have yet to be made. His wife **Katarina** (formerly of house [**Valk**]()) died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
 Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their disposal.
 
 <details>
@@ -222,6 +233,11 @@ Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their 
 </details>
 
 ### William Livingston
+
+### Eghan Tierney
+
+### Bronn MacGwean
+
 
 ---
 
