@@ -87,6 +87,9 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   <summary>Sleepy Hedgehog Inn</summary>
 
   The inn is nothing but a very ordinary inn. It is a two story building with the ground floor being the tavern area. Upon entering the inn, you greeted by a crackling fire place, the smell of fresh ale on old wood and the kind smile of the innkeeper ([Miryam Bell](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#myriam-bell)) behind the counter. One thing that is out of the ordinary though is the amount of hedgehog carvings littered throughout the tavern, somebody really likes hedgehogs here. The place is busy in the evenings and only some customers frequent during the day. Prices are reasonable but not cheap.
+
+  ![image](https://github.com/user-attachments/assets/94e3f8cc-c484-4893-8cd7-52864a20aca4)
+
    
   </details>
   
