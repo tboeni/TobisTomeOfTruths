@@ -179,6 +179,16 @@ The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfT
  ### King Silas Germaine
  Silas Germaine, current King and 12th of his name, has ruled for over 10 years now. Inhertited the title from his father Theovold Germaine.
  A benevolent and just ruler, loved by his people, respected and feared his adversaries. The sometimes bloody dispute at the border to Daz'alor lies heavy on his mind, Slias does not thirst for blood but is in strong belief that the people of Caledence who ushered the desire to be part of Altanarra instead of Daz'alor, are in need of protetction and liberation, as every subject of the crown is deserving of. Silas is a giving and just king and if you please him he will be generous but as harsh if you fail him. He does believe in second chances but this is as far as it goes.
+
+<details>
+<summary>Silas Germaine</summary>
+
+![Silas Germaine](https://github.com/user-attachments/assets/e2cf3829-faa5-46fb-980d-544ab5a40d84)
+
+ 
+</details>
+
+ 
  ### Queen Charlotte Germaine
  Formerly Charlotte of house Cloverworth, was a noble woman from Retgard in Westemar. Chosen as a possible bride for the then prince Silas, she was trained to be a queen from an early age. Altough she may seem aloof from times, she is a softspoken and giving person at heart. Donating to orphanages and refuge homes throughout the whole kingdom and has visited Caledence on multiple times, inspiring the troops and the newly turned citizens of Caledence. She deeply cares for Silas and her children as much as she cares for Altanarra as a whole and tries to guide her husband with a soft-spoken air towards an even more fair rule. 
  ### Princess Leda Germaine
