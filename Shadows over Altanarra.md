@@ -97,7 +97,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   <summary>The Abandoned Graveyard </summary>
 
   A former apprentice of the magical arts has been risen into undeath here and it creates undead from the corperses in the cementary and the fallen around the village of Grenzstad.
-  The wizard apprentice is of house [**Valk**]()
+  The wizard apprentice is of house [**Valk**](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk)
 
   ![image](https://github.com/user-attachments/assets/8e1e45bf-7c39-4a21-8b1c-fa7416f540bd)
 
@@ -221,7 +221,7 @@ Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with t
 
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
-A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other magistrate. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda]() who is to be wed to a suitor soon but the arrangements have yet to be made. His wife **Katarina** (formerly of house [**Valk**]()) died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
+A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other magistrate. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#mathilda-driscoll) who is to be wed to a suitor soon but the arrangements have yet to be made. His wife **Katarina** (formerly of house [**Valk**](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk)) died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
 Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their disposal.
 
 <details>
@@ -241,6 +241,13 @@ Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their 
 ## Minor Houses of Altanarra
 
 ### House Valk
+A now extinct family name. The last remnant of the house being **Mathilda Driscoll** daughter of [Magistrate Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll). The family was always burdened with early deaths of their offspring and tragic accidents, so that people would rumor them to be cursed for something that they had done in the past. Their family mausoleum lies within the abandoned graveyard.
+
+### Mathilda Driscoll
+
+
+### Liam Valk
+Former apprentice of Seydir Academy who met an unfortunate end during an expedition while in training. Buried in the family crypts and unfortunately turned into a Flameskull by the cult of Zur.
 
 ### House Wilenski
 
