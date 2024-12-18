@@ -48,9 +48,13 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
   
   # Locations
+  
+ </details>
 
-  ## Hearth
-  The bustling capitol of Altanarra. Much like the sigil of the country, the cities structure is reminicent of a great tree. Towering over the rest of Hearth is the "Crown" where the white tree, symbol of Altanarra, resides and the royal palace is situated. Some of the nobles are also allowed to reside in their mansions here. The Crown is separated by massive walls from the lower district the "Branches" where most of the trading and education is done. The main barracks are also found here as well as the tall church of Ilmather. The people living in the Branches are mostly wealthy trades people and other people of middle to higher social status. Again separated by thick walls in the lowest parts of Hearth one find the "Roots". Most of the poorer common folk is situated here. But most things can be found here as well, just of lesser quality most of the times. Thhe people are not wealthy but mostly content here. There is crime but not rampant.
+  ## Heartlands
+  Melting pot of Altanarran culture especially in and around Hearth. The flat lands and mild temperatures during spring and summer build very optimal conditions for farming, as the Heartlands build one of the pillars of food production for the kingdom.
+  ### Hearth
+The bustling capitol of Altanarra. Much like the sigil of the country, the cities structure is reminicent of a great tree. Towering over the rest of Hearth is the "Crown" where the white tree, symbol of Altanarra, resides and the royal palace is situated. Some of the nobles are also allowed to reside in their mansions here. The Crown is separated by massive walls from the lower district the "Branches" where most of the trading and education is done. The main barracks are also found here as well as the tall church of Ilmather. The people living in the Branches are mostly wealthy trades people and other people of middle to higher social status. Again separated by thick walls in the lowest parts of Hearth one find the "Roots". Most of the poorer common folk is situated here. But most things can be found here as well, just of lesser quality most of the times. Thhe people are not wealthy but mostly content here. There is crime but not rampant.
 <details>
  <summary>White tree and Palace</summary>
  
@@ -58,9 +62,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
 
 
  </details>
-
-  ## Heartlands
-  ### Hearth
+ 
   ## Nordemar
   ### Riverheart
   ## Ostemar
@@ -248,10 +250,12 @@ Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their 
 </details>
 
 ### William Livingston
+A rather calm fellow, close to the royal family. Strictly adhering the rules given by his Majesty. His people tolerate him but as he and his family have been put in place by the king and do not originate from Westermar, acceptance is still low. He himself is not as devout a man as many people of Westemar would have wished for and thus has to prove his loyalty to not only the crown and the people of Westemar but also to their faith of Ilmather. 
 
 ### Eghan Tierney
 
 ### Bronn MacGwean
+A brash fellow, hot tempered, short of word and not the brightest. A strong fighter and upholds honor and does recognize it. His province encompassed the border conflict and the town of Riverwood at the center of the conflict. Though he is not the smartest when it comes to politics or science, Bronn excels at military strategies as they seem to come to him naturally. Almost like premunitons of what his opponent plans to do next. His residence, [Boulder Keep](), is more reminicent of a military fortress instead of a castle where a magistrate would reside. Garrisons decorate the walls of the keep. 
 
 ## Minor Houses of Altanarra
 
@@ -268,6 +272,28 @@ Former apprentice of Seydir Academy who met an unfortunate end during an expedit
 
 ### Hosue Helbron
 
+## Advisors Altanarra
+### Selinesta 
+
+### Nelic 
+
+### Eneth 
+
+### Inyll Moonblade
+Advisor to [Gerrad Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll) in the province of Sodemar. She is a very calculated, observant person in contrast to the magistrate. She tends to feel a bit cold until one gets to know her on a more personal level. She is a tall and fair skinned elven lady. Pale skin and a regal air about her.
+
+<details>
+
+ <summary>Inyll Moonblade</summary>
+
+![image](https://github.com/user-attachments/assets/da6e119d-817f-4e2f-a40b-4ec4b9593f7d)
+
+ 
+</details>
+
+
+### Onorim 
+ 
 ---
 
 
