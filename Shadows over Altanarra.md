@@ -107,6 +107,9 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   ## Westemar
   ### Retgard
   Captiol city of Westemar and home to the [Cathedral of Salvation]() and thus being a known location for pilgrims and believers all over the kingdom. Religion is part of almost every facet of live in Retgard and the pious out weigh the religously ambigious people by a landslide. As a consequence of church of Ilmather's influence, many forms of religiously infuced teachings have arised including monestaries, schools and even a lower academy. People not following the beliefs of Ilmather tend to turn away from Retgard or even Westemar as a whole or try to forge a path with other "non-religious renegardes". Retgard is governed my [Magistrate William Livingston]() who resides in the [Red Keep]().
+
+  ### Gelshire Monastary
+  Like many monasteries this is a place of worship, meditataion and education for aspiring people of the cloth. However, not only can one choose the path of a priest (or cleric if gifted with the touch of the divine) but also one of a aspiring paladin or a monk. Monks would act as a personal guard and also sometimes healers for the elite of the church. Gelshire Monastery is lead by  [Isolda Fairweather]() an older, devout woman but one would not see her as such as she moves with the grace of a young person teaching discipline, patience and virtue to the youngsters of the monastery.
   
   ## Forlon Forest
   ## Lake Morrighan
