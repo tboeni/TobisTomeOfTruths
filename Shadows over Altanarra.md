@@ -93,6 +93,18 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
    
   </details>
 
+
+  <details>
+
+  <summary>Grenzstad Chapel</summary>
+  Workplace and home of [Patrick Harper](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#patrick-harper). A tiny chapel, in good condition but old and it sees wear and tear on its inventory. There are no objects of value in the chapel and only idols of worship can be found on the small altar in the far back of the chapel. The building is located slightly on the outskirts of the village and despite its closeness is only rarely visited by a few devout followers of Ilmather or travellers.
+
+  
+   ![image](https://github.com/user-attachments/assets/2ed99acd-f676-4602-bf1a-a3ed2c2c16bb)
+
+   
+  </details>
+
   <details>
   <summary>The Abandoned Graveyard </summary>
 
