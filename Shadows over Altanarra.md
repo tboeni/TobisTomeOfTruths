@@ -94,7 +94,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   </details>
 
   <details>
-  <summary>The Abandoned Graveyard</summary>
+  <summary>The Abandoned Graveyard </summary>
 
   A former apprentice of the magical arts has been risen into undeath here and it creates undead from the corperses in the cementary and the fallen around the village of Grenzstad.
   The wizard apprentice is of house [**Valk**]()
@@ -238,6 +238,13 @@ Gerrad wishes to help the party and will appoint his advisor [Inyll]() to their 
 
 ### Bronn MacGwean
 
+## Minor Houses of Altanarra
+
+### House Valk
+
+### House Wilenski
+
+### Hosue Helbron
 
 ---
 
