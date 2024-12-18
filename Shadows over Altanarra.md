@@ -96,8 +96,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   <details>
   <summary>The Abandoned Graveyard </summary>
 
-  A former apprentice of the magical arts has been risen into undeath here and it creates undead from the corperses in the cementary and the fallen around the village of Grenzstad.
-  The wizard apprentice is of house [**Valk**](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk)
+  A former apprentice of the magical arts has been risen into undeath as [Flameskull](https://www.dndbeyond.com/monsters/17091-flameskull) here and it creates undead from the corperses in the cementary and the fallen around the village of Grenzstad.
+  The wizard apprentice is of house [**Valk**](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk).
 
   ![image](https://github.com/user-attachments/assets/8e1e45bf-7c39-4a21-8b1c-fa7416f540bd)
 
