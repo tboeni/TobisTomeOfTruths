@@ -132,6 +132,7 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 <details>
 <summary>"The Beast"</summary>
 
+![image](https://github.com/user-attachments/assets/27e6151f-705b-4681-8d6a-13d24bfea090)
 
 
 [Oni](https://www.dndbeyond.com/monsters/16971-oni?srsltid=AfmBOorp_zNh8LBXtRevWXzazdN630G67QY3tiJ72Zv_Tek-6FWLAqgA)
