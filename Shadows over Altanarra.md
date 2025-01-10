@@ -117,6 +117,26 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 
 
   </details>
+
+ ### Oldorf
+
+ An abandoned village to the north of Grenzstad. It has been abandoned for a long time rather shortly after the resurgence of undead long years ago. The regional folk however never much intended to reclaim the village and thus the decaying building have ever since been used by outlaws, straggelers and other dodgy folk. But for a while now not even these people seem to dare set up camp in the abandoned village. Rumors are that a beast made its lair there, one horn, cunning and strong. 
+
+<details>
+<summary>Oltdorf</summary>
+ 
+ ![image](https://github.com/user-attachments/assets/b531a241-46cc-46a1-a7b2-64970d3d9ca1)
+
+</details>
+
+<details>
+<summary>"The Beast"</summary>
+
+
+
+[Oni](https://www.dndbeyond.com/monsters/16971-oni?srsltid=AfmBOorp_zNh8LBXtRevWXzazdN630G67QY3tiJ72Zv_Tek-6FWLAqgA)
+ 
+</details>
   
   ## Westemar
   ### Retgard
