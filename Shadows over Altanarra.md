@@ -120,7 +120,7 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 
  ### Oldorf
 
- An abandoned village to the north of Grenzstad. It has been abandoned for a long time rather shortly after the resurgence of undead long years ago. The regional folk however never much intended to reclaim the village and thus the decaying building have ever since been used by outlaws, straggelers and other dodgy folk. But for a while now not even these people seem to dare set up camp in the abandoned village. Rumors are that a beast made its lair there, one horn, cunning and strong. 
+An abandoned village to the north of Grenzstad. It has been abandoned for a long time rather shortly after the resurgence of undead long years ago. The regional folk however never much intended to reclaim the village and thus the decaying building have ever since been used by outlaws, straggelers and other dodgy folk. But for a while now not even these people seem to dare set up camp in the abandoned village. Rumors are that a beast made its lair there, one horn, strong and wild.  
 
 <details>
 <summary>Oltdorf</summary>
@@ -132,11 +132,12 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 <details>
 <summary>"The Beast"</summary>
 
-![image](https://github.com/user-attachments/assets/27e6151f-705b-4681-8d6a-13d24bfea090)
+[Mouth of Grolantor](https://dr-eigenvalue.github.io/bestiary/creature/mouth-of-grolantor)
 
+The creature carries a shard of the [Phylactery]() inside the edge of its forehead which was arguably mistaken by onlookers as a horn. Transformed by the dark magic of the phylactery, what once was a hill giant was violently transformed into this shambling mass. Saggy skin hanging from hits belly and arms, crazed by an unending hunger. "The Beast" made it's lair in the former [Valk](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk) Mansion which by now has been reduced to basically ruins. The roof caved in multiple parts, walls are torn down and the furniture shattered and weathered. 
 
-[Oni](https://www.dndbeyond.com/monsters/16971-oni?srsltid=AfmBOorp_zNh8LBXtRevWXzazdN630G67QY3tiJ72Zv_Tek-6FWLAqgA)
- 
+![image](https://github.com/user-attachments/assets/1d32eb7e-595c-455a-ab42-01bb994e86be)
+
 </details>
   
   ## Westemar
@@ -283,13 +284,13 @@ A brash fellow, hot tempered, short of word and not the brightest. A strong figh
 ### House Valk
 A now extinct family name. The last remnant of the house being **Mathilda Driscoll** daughter of [Magistrate Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll). The family was always burdened with early deaths of their offspring and tragic accidents, so that people would rumor them to be cursed for something that they had done in the past. Their family mausoleum lies within the abandoned graveyard.
 
-### Mathilda Driscoll
+#### Mathilda Driscoll
 
 
-### Liam Valk
+#### Liam Valk
 Former apprentice of Seydir Academy who met an unfortunate end during an expedition while in training. Buried in the family crypts and unfortunately turned into a Flameskull by the cult of Zur.
 
-### House Wilenski
+#### House Wilenski
 
 ### Hosue Helbron
 
