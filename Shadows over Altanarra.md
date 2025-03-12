@@ -71,13 +71,41 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
   The most Southern province of Altanarra, bordering to [Ulvenwald]() in the South, the massive [Dragonridge Mountains]() in the East, the mysterious [Forlonn Forest]() to the North and Hearthlands to the West. The Province is neither poor nor wealthy as most of its trade is compromised of Stone harvested from quarries along the mountainside and wood. Most of the populace is involed in the production of one of these goods, farming or fishing (especially around Lake Morrighan). [Gerrad Driscoll]() is the magistrate ruling the province from his castle in **Duskhaven** advised by [Inyll]() a mage of Seydir Academy. Traders from outside are rare but not unusual as [Ulvenwald]() is closeby. The people are not afraid of newcomers but weary nontheless as the conflict on the Southeastern borders are present on the poeples mind.
   
   ### Duskhaven
-  Captiol of Sodemar, the largest town of the province, bustling streets with merchants and tradespeople, many goods, equipment and baubles can be found here for a price. Most people are working class. The town is encolsed by thick city walls protected by the towns very own guards who are patrolling the streets, keeping law and order. A barracks of the royal army can be found here commandeered by [Knight Captain Thelian Lagon]() which is off limits to outsiders except by direct invitation or royal decree. Although the army has a foothold in the city they are only called upon in times of need if there are major attacks or other dangers that threaten the safety of the town or province. The church of Ilmather is found here as well lead by [Highpriestess Ludmilla Ocatan](). [The Collegium]() has a branch of their academy here where aspiring scholars and the offspirng of the upper echelon are trained and if they show potential sent to the academy in Hearth. [Magistrate Gerrad Driscoll] resides in Duskhaven in **Castle Dusk** from where he rules the province.
+  Captiol of Sodemar, the largest town of the province, bustling streets with merchants and tradespeople, many goods, equipment and baubles can be found here for a price. Most people are working class. The town is encolsed by thick city walls protected by the towns very own guards who are patrolling the streets, keeping law and order. A barracks of the royal army can be found here commandeered by [Knight Commander Thelian Lagon]() which is off limits to outsiders except by direct invitation or royal decree. Although the army has a foothold in the city they are only called upon in times of need if there are major attacks or other dangers that threaten the safety of the town or province. The church of Ilmather is found here as well lead by [Highpriestess Ludmilla Ocatan](). [The Collegium]() has a branch of their academy here where aspiring scholars and the offspirng of the upper echelon are trained and if they show potential sent to the academy in Hearth. [Magistrate Gerrad Driscoll] resides in Duskhaven in **Castle Dusk** from where he rules the province.
 
   <details>
    <summary>Castle Dusk</summary>
 
    ![Castle Grenzstadt](https://github.com/user-attachments/assets/21e5fc57-cbac-4878-90d3-e0944ed2c7f4)
   
+  </details>
+
+  <details>
+   <summary>Gilden Mug (Inn)</summary>
+
+   The Gilden Mug is one of two Inn in Duskhaven. **Xavier Longoar** is the owner, a middle-aged man, bald head and a silvery greying beard. Although not in his prime anymore he appears to be muscular. The Inn is nothing fancy at all, the interior is winding and despite it being not a large tavern, you can almost not make out the end of the floor. It has two stories with bedrooms at the first floor and the bar area at the ground floor.
+   
+  </details>
+
+  <details>
+  <summary>Duskaven Barracks</summary>
+
+  The Duskhaven Barracks are located right at the Southern city walls. They are protected by soldiers at all time though the lack of their presence in Duskhaven and Westemar as a whole can be felt. The Barracks are not overflowing with new recruits and/or veterans but instead many beds and sometimes posts are vacant. [Knight Commander Thelian Lagon]() is in charge of this detachment. Inside the barrakcs an inner yard can be found where drills are held. To one side there is the sleeping quarters and to the other the weapons chambers, administrative office and dining hall.
+   
+  </details>
+
+  <details>
+  <summary>Church of Sanctity</summary>
+
+  The church is old but well maintained, as they at many places in the kingdom, behind the building are a medical wing and the sleeping chambers. It is situated on the Northern side of Duskhaven. A handful of priests and other people of the cloth are around and look after the sick and injured. [Highpriestess Ludmilla Ocatan]() is the spiritual leader of this branch of the church of Ilmather. 
+   
+  </details>
+
+  <details>
+  <summary>The Collegium of Duskhaven</summary>
+
+  The Collegium is where aspiring young scholars are taught in the ways of science, culture and law. The campus is located close to the city centre and is compromised of one large building with 2 floors and a park that is open to the public where the scholars spend their time practising and studying. [Headmistress Dona Olos]() is in charge of the students and the school.
+   
   </details>
   
   ### Grenzstad
