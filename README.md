@@ -14,6 +14,7 @@ For Dnd and Such
 * [x] Open Roll by the DM
 * [x] Unsheathed Weapons for Casting
 * [x] Flanking +2 to the Attack Roll
+* [x] Disatadvantage/Advantage rule RAW
 
 ## Altanarra Base Workings
 
