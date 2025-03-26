@@ -83,7 +83,7 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
   <details>
    <summary>Gilden Mug (Inn)</summary>
 
-   The Gilden Mug is one of two Inn in Duskhaven. **Xavier Longoar** is the owner, a middle-aged man, bald head and a silvery greying beard. Although not in his prime anymore he appears to be muscular. The Inn is nothing fancy at all, the interior is winding and despite it being not a large tavern, you can almost not make out the end of the floor. It has two stories with bedrooms at the first floor and the bar area at the ground floor.
+   The Gilden Mug is one of two Inn in Duskhaven. **Xavier Longoar** is the owner, a middle-aged man, bald head and a silvery greying beard. Although not in his prime anymore he appears to be muscular. The Inn is nothing fancy at all, the interior is winding and despite it being not a large tavern, you can almost not make out the end of the floor. It has two stories with bedrooms at the first floor and the bar area at the ground floor. Rooms are a Silver a piece. 
    
   </details>
 
@@ -122,6 +122,14 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 
   Offshoot of the [Mortar & Pestle Company](). They sell mostly basic potion as healing potions but there are some more valuable ones such as invisiblity potions.
    
+  </details>
+
+  <details>
+   <summary>Dalen's Trinkets</summary>
+
+   Dalen sells and collects trinkets around the world. Some magical items can be found for a hefty price among the clutter in his store. 
+   He is a dark skinned man, hailing from the Jaroomian Empire but abandoned his past in favor for another shot and following his passion as a collector and trader.
+  
   </details>
   
   ### Grenzstad
