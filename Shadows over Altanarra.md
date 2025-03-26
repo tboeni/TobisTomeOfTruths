@@ -107,6 +107,22 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
   The Collegium is where aspiring young scholars are taught in the ways of science, culture and law. The campus is located close to the city centre and is compromised of one large building with 2 floors and a park that is open to the public where the scholars spend their time practising and studying. [Headmistress Dona Olos]() is in charge of the students and the school.
    
   </details>
+
+  <details>
+  <summary>Smithy: "Ore & More"</summary>
+
+  Blacksmith [Ralph Kern]() is the local blacksmith. His shop provides most basic armours for all kinds of adventure. There are a few magical weapons that he sells for a very high price (+1 dagger 500g, sword 750g, etc.)
+  Ralph is a hard man, stocky, oddly hairless and usually covered in soot, especially his fingernails are permanently stained in a greyish hue.
+  Ludivine is the apprentice is Ludivine, a girl in her teens.
+   
+  </details>
+
+  <details>
+  <summary>Herbalists store: Mortar & Pestle</summary>
+
+  Offshoot of the [Mortar & Pestle Company](). They sell mostly basic potion as healing potions but there are some more valuable ones such as invisiblity potions.
+   
+  </details>
   
   ### Grenzstad
 
@@ -254,6 +270,12 @@ There are 5 High Inquisitors, with different Oaths and different fighting styles
 The Outriders will be neutral towards the adventurers and will not interfere (at the start) with their quest. This will only happen after a given time (Mercenaries etc. coming after them). If the Cult has amassed a critical amount of Shards, the Paladins will eradicate them (possibly together with the adventurers) and keep the fragments for themselves. Players will then need to find out the truth behind the Paladins (Forsworn Liches and the holy warrior [Idris Dawnbringer](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#idris-dawnbringer) is their commander). 
 The court wizards (especially [Selinesta](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#selinesta)) will be of crucial importance to unveil their plans and help the adventurers further their goals. 
 
+## Comapnies
+
+### Mortar & Pestle
+
+
+
   
  ## Royal Family // House Germaine
   
@@ -320,7 +342,11 @@ Former apprentice of Seydir Academy who met an unfortunate end during an expedit
 
 #### House Wilenski
 
-### Hosue Helbron
+### House Helbron
+
+### House Kiprovski
+
+The brothers Kiprovski are the owners of the family business [Mortar & Pestle]()
 
 ## Advisors Altanarra
 ### Selinesta 
