@@ -13,7 +13,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
  **Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
  
  </details>
-
+4
  ---
  <details>
  <summary><h1>Hyllestad</h2></summary>
@@ -196,8 +196,15 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers..
 
 ### Cave Laboratory
-Not far to the East of the Goldtooth camp in the middle of giant land, the Szurists have established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmbed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
+Not far to the East of the Goldtooth camp in the middle of giant land, the Szurists have established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
 Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, Szur's Mind](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#velcor-szurs-mind) urging the leading apothecary to be thorough as the success of these experiments is crucial for their success.
+
+<details>
+ <summary>Helmed Horror</summary>
+ 
+![Helmed Horror](https://github.com/user-attachments/assets/024ae3f2-8eb6-4a7c-a9df-2ea5ab3e71d4)
+ 
+</details>
   
 ## Westemar
 
