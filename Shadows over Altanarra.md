@@ -175,7 +175,7 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
 An abandoned village to the north of Grenzstad. It has been abandoned for a long time rather shortly after the resurgence of undead long years ago. The regional folk however never much intended to reclaim the village and thus the decaying building have ever since been used by outlaws, straggelers and other dodgy folk. But for a while now not even these people seem to dare set up camp in the abandoned village. Rumors are that a beast made its lair there, one horn, strong and wild.  
 
 <details>
-<summary>Oltdorf</summary>
+<summary>Oldorf</summary>
  
  ![image](https://github.com/user-attachments/assets/b531a241-46cc-46a1-a7b2-64970d3d9ca1)
 
@@ -193,7 +193,11 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 </details>
 
 ### Goldtooth Encampment
-The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers.. 
+The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers..
+
+### Cave Laboratory
+Not far to the East of the Goldtooth camp in the middle of giant land, the Szurists have established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmbed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
+Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, Szur's Mind]()
   
 ## Westemar
 
@@ -229,9 +233,14 @@ The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the 
 
 </details>
 
+### Velcor, Szur's Mind
+
+Leader of the Szurists. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
+
 <details>
- <summary>Velcor, Szurs Mind</summary>
- Leader of the Szurists. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
+ <summary>Velcor, Szur's Mind</summary>
+ 
+
 </details>
   
   ## Forsworn
