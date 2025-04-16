@@ -427,6 +427,10 @@ Advisor to [Gerrad Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/ma
 ### Onorim 
 
 
+## Residents of Castle Dusk
+
+### Sven, the keeper of books (?)
+
 ## Goldtooth Clan
 Clan Goldtooth is one of a few hill giant tribes along the Eastern side of the Dragon Ridge Mountains and is the wealthiest of them. However a rival tribe, the Thunderguts, are apparently trying to claim dominance of the hill giant clans with newly aquired wealth. Word is that they have made deals with a third party that made them richer and fatter than ever before. This happened in such short time that chief Bolg suspects that there is some trickery afoot and will look upon anyone as an steadfast ally that will side with him and bring clan Thundergut to justice by revealing their dirty secret.
 
