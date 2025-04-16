@@ -13,3 +13,14 @@ While wielding this shield if the wearer takes damage from attack, they may spen
 
 </details>
 
+## Stabilizer Needle
+
+A peculiar device harboring a mixture of magic and technology. 
+Once per day, the user can use an action to stabilize a creature that has fallen to 0 hitpoints.
+Roll a d20, the creature regains 1 hitpoints and conciousness on a 20, else it is stable and unconscious for d4 hours.
+
+<details>
+
+  ![Stabilizer Needle](https://github.com/user-attachments/assets/bd5e28cd-6261-4973-8dbc-f9c091090397)
+
+</details>
