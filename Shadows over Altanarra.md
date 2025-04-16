@@ -13,7 +13,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
  **Captiol:** Tokaar, City of Storms. Ruled by Jergal Oupha the "Thunder King"
  
  </details>
-4
+ 
  ---
  <details>
  <summary><h1>Hyllestad</h2></summary>
