@@ -217,6 +217,11 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 * Apothecaries (on a similar ranking as Death Guards but not on the same chain of command, they conduct research and experiments in the name of Szur)
 * Szurs Blade (Leader of everything martial)
 * Szurs Mind (Defacto High Cultist and Leader)
+
+<details>
+ <summary>Velcor, Szurs Mind</summary>
+ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
+</details>
   
   ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
