@@ -207,9 +207,16 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 
   ## The Collegium
   
-  ## Cult of Szur
+  ## Cult of Szur / Szurists
   Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Szurs Phylactery for a dark ritual. The [High Inquisitors](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
   The Cult occupied small hideouts all over Altanarra. 
+
+  The Szurists are divided into ranks:
+* Aspirants (Grunts, the lowest rank. Used for manual labor and as expendable forces)
+* Death Guards (Lieutenants, commanding rats in martial sitations and overseeing expedidtions and facilities)
+* Apothecaries (on a similar ranking as Death Guards but not on the same chain of command, they conduct research and experiments in the name of Szur)
+* Szurs Blade (Leader of everything martial)
+* Szurs Mind (Defacto High Cultist and Leader)
   
   ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
