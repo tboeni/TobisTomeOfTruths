@@ -414,14 +414,14 @@ One of his massive canines is golden, hence the name of his clan and he likes to
 
 <details>
  <summary>Bolg Goldtooth</summary>
+ 
 ![Bolg Goldtooth](https://github.com/user-attachments/assets/f6fe3b29-d9ce-4865-8ce0-d3431a55a649)
-
 
 </details>
 
 ## Clan Thundergut
 
-## Chief Kol Thundergut
+### Chief Kol Thundergut
 Kol has made a deal with the Szurists and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Szurists access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
 ---
 
