@@ -191,9 +191,13 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 ![image](https://github.com/user-attachments/assets/1d32eb7e-595c-455a-ab42-01bb994e86be)
 
 </details>
+
+### Goldtooth Encampment
+The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers.. 
   
-  ## Westemar
-  ### Retgard
+## Westemar
+
+### Retgard
   Captiol city of Westemar and home to the [Cathedral of Salvation]() and thus being a known location for pilgrims and believers all over the kingdom. Religion is part of almost every facet of live in Retgard and the pious out weigh the religously ambigious people by a landslide. As a consequence of church of Ilmather's influence, many forms of religiously infuced teachings have arised including monestaries, schools and even a lower academy. People not following the beliefs of Ilmather tend to turn away from Retgard or even Westemar as a whole or try to forge a path with other "non-religious renegardes". Retgard is governed my [Magistrate William Livingston]() who resides in the [Red Keep]().
 
   ### Gelshire Monastary
@@ -398,12 +402,13 @@ Advisor to [Gerrad Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/ma
 ### Onorim 
 
 
-### Goldtooth Clan
+## Goldtooth Clan
+Clan Goldtooth is one of a few hill giant tribes along the Eastern side of the Dragon Ridge Mountains and is the wealthiest of them. However a rival tribe, the Thunderguts, are apparently trying to claim dominance of the hill giant clans with newly aquired wealth. Word is that they have made deals with a third party that made them richer and fatter than ever before. This happened in such short time that chief Bolg suspects that there is some trickery afoot and will look upon anyone as an steadfast ally that will side with him and bring clan Thundergut to justice by revealing their dirty secret.
 
-## Orm
+### Orm
 Got corrupted after receiving a shard of Szur's phylactery and got taken out by the party in Oldorf after ravaging the local bandit population.
 
-## Chief Bolg
+### Chief Bolg
 Leader of the clan and fattest and most wealthy of them. He thinks himself a business man and some sort of lord. He sports a tattered vest, a worn top hat and clunky golden rings on his enormous fingers and a gold chain on his neck. 
 One of his massive canines is golden, hence the name of his clan and he likes to show it off at every opportunity that he gets. Bolg is good natured but hates trickery which may make him fly into an unreasonable rage but he might as well prove a powerful ally as well as and adversary.
 
@@ -413,6 +418,11 @@ One of his massive canines is golden, hence the name of his clan and he likes to
 
 
 </details>
+
+## Clan Thundergut
+
+## Chief Kol Thundergut
+Kol has made a deal with the Szurists and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Szurists access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
 ---
 
 
