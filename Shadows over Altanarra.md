@@ -197,7 +197,7 @@ The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the 
 
 ### Cave Laboratory
 Not far to the East of the Goldtooth camp in the middle of giant land, the Szurists have established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmbed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
-Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, Szur's Mind]()
+Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, Szur's Mind](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#velcor-szurs-mind) urging the leading apothecary to be thorough as the success of these experiments is crucial for their success.
   
 ## Westemar
 
@@ -223,8 +223,8 @@ Among the ruined reagents and vials lies a stained note from an unknown ([Velcor
 * Aspirants (Grunts, the lowest rank. Used for manual labor and as expendable forces)
 * Death Guards (Lieutenants, commanding rats in martial sitations and overseeing expedidtions and facilities)
 * Apothecaries (on a similar ranking as Death Guards but not on the same chain of command, they conduct research and experiments in the name of Szur)
-* Szurs Blade (Leader of everything martial)
-* Szurs Mind (Defacto High Cultist and Leader)
+* Szur's Blade (Leader of everything martial)
+* Szur's Mind (Defacto High Cultist and Leader)
 
 <details>
  <sumamry>Symbol of the Szurists</sumamry>
@@ -242,6 +242,15 @@ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plan
  
 
 </details>
+
+ ### Perrik, Szur's Blade
+
+ <details>
+  <summary>Perrik, Szur's Blade</summary>
+ </details>
+
+ ### Apothecary Tanov
+ Vicitim of his own creation in the hidden laboratory in the Goldtooth's lands. Carried a note by Velcor, urging him to be successful with his experiment or face serious concequences this time around.
   
   ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
