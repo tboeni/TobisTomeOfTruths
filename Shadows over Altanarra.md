@@ -1,4 +1,4 @@
-![ChatGPT Image 16  Apr  2025, 16_20_04](https://github.com/user-attachments/assets/2b984291-0e79-4f13-b078-f95233794eba)# Omnia 
+# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
