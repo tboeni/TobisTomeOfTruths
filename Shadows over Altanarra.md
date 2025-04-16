@@ -1,4 +1,4 @@
-# Omnia 
+![ChatGPT Image 16  Apr  2025, 16_20_04](https://github.com/user-attachments/assets/2b984291-0e79-4f13-b078-f95233794eba)# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
@@ -219,6 +219,13 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 * Szurs Mind (Defacto High Cultist and Leader)
 
 <details>
+ <sumamry>Symbol of the Szurists</sumamry>
+
+ 4![Symbol of the Szurists](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
+
+</details>
+
+<details>
  <summary>Velcor, Szurs Mind</summary>
  Leader of the Szurists. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
 </details>
@@ -389,7 +396,23 @@ Advisor to [Gerrad Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/ma
 
 
 ### Onorim 
- 
+
+
+### Goldtooth Clan
+
+## Orm
+Got corrupted after receiving a shard of Szur's phylactery and got taken out by the party in Oldorf after ravaging the local bandit population.
+
+## Chief Bolg
+Leader of the clan and fattest and most wealthy of them. He thinks himself a business man and some sort of lord. He sports a tattered vest, a worn top hat and clunky golden rings on his enormous fingers and a gold chain on his neck. 
+One of his massive canines is golden, hence the name of his clan and he likes to show it off at every opportunity that he gets. Bolg is good natured but hates trickery which may make him fly into an unreasonable rage but he might as well prove a powerful ally as well as and adversary.
+
+<details>
+ <summary>Bolg Goldtooth</summary>
+![Bolg Goldtooth](https://github.com/user-attachments/assets/f6fe3b29-d9ce-4865-8ce0-d3431a55a649)
+
+
+</details>
 ---
 
 
