@@ -1,4 +1,4 @@
-# Omnia 
+![image](https://github.com/user-attachments/assets/24aef560-ed58-4f2a-b856-2078f9a14992)# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
@@ -388,7 +388,7 @@ A brash fellow, hot tempered, short of word and not the brightest. A strong figh
 ## Minor Houses of Altanarra
 
 ### House Valk
-A now extinct family name. The last remnant of the house being **Mathilda Driscoll** daughter of [Magistrate Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll). The family was always burdened with early deaths of their offspring and tragic accidents, so that people would rumor them to be cursed for something that they had done in the past. Their family mausoleum lies within the abandoned graveyard.
+A now extinct family name. The last remnant of the house being **Mathilda Driscoll** daughter of [Magistrate Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll). The family was always burdened with early deaths of their offspring and tragic accidents, so that people would rumor them to be cursed for something that they had done in the past. Their family mausoleum lies within the abandoned graveyard. 
 
 #### Mathilda Driscoll
 
@@ -396,6 +396,8 @@ A now extinct family name. The last remnant of the house being **Mathilda Drisco
 #### Liam Valk
 Former apprentice of Seydir Academy who met an unfortunate end during an expedition while in training. Buried in the family crypts and unfortunately turned into a Flameskull by the cult of Zur.
 
+#### Jared Valk
+A Outrider of the older days. He joined the paladins as an initate and not much was heard of him after that. Unbeknowst to the public he rose the ranks to become one of the [Forsworn](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn). Now long presumed dead as his natural life should have ended long ago and being a member of the Valk family known for their rahter short life spans.
 #### House Wilenski
 
 ### House Helbron
