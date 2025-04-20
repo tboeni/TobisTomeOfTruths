@@ -402,6 +402,9 @@ A Outrider of the older days. He joined the paladins as an initate and not much 
 
 ### House Helbron
 
+#### Quentin Helbron
+Defacto head of house Helbron since his older brother went missing in action after serving and receiving eductinon at [Gelshire Monastery](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gelshire-monastary). Rumors say that he was somehow involved in his absence but that is not the case. Instead he has spent a significant portion of the houses income on finding out what happened to his brother.
+
 ### House Kiprovski
 
 The brothers Kiprovski are the owners of the family business [Mortar & Pestle]()
