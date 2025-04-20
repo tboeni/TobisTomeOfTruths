@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/24aef560-ed58-4f2a-b856-2078f9a14992)# Omnia 
+# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
