@@ -425,6 +425,8 @@ The brothers Kiprovski are the owners of the family business [Mortar & Pestle]()
 ### Inyll Moonblade
 Advisor to [Gerrad Driscoll](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#gerrad-driscoll) in the province of Sodemar. She is a very calculated, observant person in contrast to the magistrate. She tends to feel a bit cold until one gets to know her on a more personal level. She is a tall and fair skinned elven lady. Pale skin and a regal air about her.
 
+She is likely the first court wizard the players will encounter and present the first shard they found to her as the party will not have a clue to what the nature of this strange object is. In time she will deduct analysis on the splinter of Szurs Phylactery upon which the true nature of this object will be clear to her. She informs the party about it and tell them that this is of utmost secrecy as she has given this information to only the other court wizards and the king himself. As the party already knows (too) much, she urges them to act as special agents of the crown in order to find more of these shards and what the other party(ies) are trying to accomplish by harnessing their power. If the party accepts they will receive a magically inscribed emblem of the crown that grants them special treatment in many places and access to usually restricted places (it can be used a form of stamp) and she returns the first shard found by the party which now is placed inside a enchanted container and lets the user detect the precense of other shards in an area.
+
 <details>
 
  <summary>Inyll Moonblade</summary>
