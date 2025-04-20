@@ -236,7 +236,7 @@ Among the ruined reagents and vials lies a stained note from an unknown ([Velcor
 <details>
  <sumamry>Symbol of the Szurists</sumamry>
 
- 4![Symbol of the Szurists](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
+ ![Symbol of the Szurists](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
 
 </details>
 
