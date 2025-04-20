@@ -269,6 +269,12 @@ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plan
    ![Idris Dawnbringer 2 0](https://github.com/user-attachments/assets/307b0052-11a7-461b-b80e-57c2c36dbede)
   
   </details>
+
+  ### Jared Valk
+  <details>
+  <summary>Inquisitor Valk</summary>
+   
+  </details>
   
   ## Order of the Magi
 
