@@ -257,8 +257,9 @@ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plan
  </details>
 
  ### Apothecary Tanov
- Vicitim of his own creation in the hidden laboratory in the Goldtooth's lands. Carried a note by Velcor, urging him to be successful with his experiment or face serious concequences this time around.
-  
+
+ Failed his experiment in the Laboratory inside the cavern hwere it went on a rampage. He also created SKulks in [Placeholder] Village as another experiment. He currently resides in an abandoned manor where he operated from, surrounded by his creations and lackies.
+   
   ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
   They are the immortal guardians of the living in Altanarra, however it is unknown who these High Inquistors are and even their existence is a myth. In the rare cases that someone had seens a glimpse of an High Inquisitor they simply saw armorered holy warriors their faces hidden behind adorned helmets encircled by a sanguine halo 
