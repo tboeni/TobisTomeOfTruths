@@ -371,6 +371,11 @@ Matron of the **Sleepy Hedgehog Inn** and a stout woman. Her darkblonde hair is 
 ### Patrick Harper
 Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with thick darkbrown hair falling from his brow. Patrick wears a worn robe of Ilmather sporting the withe base color and the thick red trimmings. Around his neck hangs the symbol of Ilmather, two hands bound by a red string. If the players pay attention and succeed on a perception check they will notice scars on his hands and arms where his robes move, which is a known practise of the followers of Ilmather. He does not posses any holy powers but tends to the sick and wounded nontheless to the best of his abilites. He lives and worships in the small shrine towards the edge of town. He is a devout man following the teachings of the church of Ilamther to a T. He is willing to inform the players of the principles of the church if they are unaware, as he desires to spread to good word of Ilmather and will try to rope them into joining his prayer very soon into the conversation if they decided to question him about Ilmather. If the players decide to indulge he will offer them a healing potion as a reward for accepting the spirit of Ilmather. 
 
+
+## People of Northbrook
+
+### Krembor Pondfisher
+
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
 A joyful man, might seem gullible at first due to his jolly character but has a sharp wit. He is in his fifties sporting a small belly, a limp, a balding head and a prominent greying moustache. Not the best fighter, never has been, not the best tactician but has very loyal people around him and is beloved by the populace for he is providing more public services as any other magistrate. A believer in Ilamther and so are many of his subjects. Driscoll has a daughter [Mathilda](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#mathilda-driscoll) who is to be wed to a suitor soon but the arrangements have yet to be made. His wife **Katarina** (formerly of house [**Valk**](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#house-valk)) died during childbirth which has made him protective of his daughter, the only living legacy left of his wife, and thus respects her wishes utmost.
