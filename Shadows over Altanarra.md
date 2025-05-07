@@ -216,6 +216,13 @@ In the hidden and locked backroom of the basement of the tavern a gruesome sight
  <summary>Skulk</summary>
 
 Skulk are made by necromantic magics that pull a lingering soul from a fresh corpse. It is twisted and tured via a lengthy process into a literal shadow of what the person once was, driven by maliciousness and servitude for its creator. Skulks assume the form of their last kill and pretend to be another in a very lifeless way. The Illusion can only be seen through by casting detect magic and succeeding a Arcana DC 15 check (with Dectect Magic Advantage). 
+
+[Skulk](https://5e.tools/bestiary/skulk-mtf.html)
+
+![image](https://github.com/user-attachments/assets/37694edf-773d-4943-a84f-19cd97a45bbc)
+
+
+
 </details>
   
 ## Westemar
