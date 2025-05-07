@@ -201,7 +201,8 @@ Among the ruined reagents and vials lies a stained note from an unknown ([Velcor
 
 <details>
  <summary>Helmed Horror</summary>
- 
+
+
 ![Helmed Horror](https://github.com/user-attachments/assets/024ae3f2-8eb6-4a7c-a9df-2ea5ab3e71d4)
  
 </details>
@@ -396,6 +397,14 @@ Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with t
 ### Krembor Pondfisher
 
 A young, unkept lad. Shaggy dark hair, attire of a fisherman. Lived in Westbrook where he followed the trade of fishing after his parents passed early in his youth. He is timid by nature and scared by the recent events. Krembor had a sweet heart, Gwen, in the village that is why he could never leave before although ever since the passing of his partens he never felt at home in Westbrook anymore. Too timid to just approach her, he planned on proposing to her as a sign of his courage and seriousness. After resolving the issue in Westbrook he will offer the party his family heirloom ring (a silver ring with a inlaid garnet gemstone (25g). 
+
+### Olaf Barner
+
+Owner of the Pony Tavern. Replaced by a Skulk.
+
+### Gwen Barner
+
+Daugther of Olaf. Replaced by a Skulk.
 
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
