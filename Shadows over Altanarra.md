@@ -205,6 +205,18 @@ Among the ruined reagents and vials lies a stained note from an unknown ([Velcor
 ![Helmed Horror](https://github.com/user-attachments/assets/024ae3f2-8eb6-4a7c-a9df-2ea5ab3e71d4)
  
 </details>
+
+### Northbrook
+
+A small village, not much larger than an hamlet. Townsfolk have been behaving strangely lately, a traveler, [Krembor Pondfisher](), was telling tales of blank food, joyless people and "dead" eyes in the [Gilden Mug]() in Duskhaven. After a visit just about a week or tenday ago of a travelling healer [Jerzy Tanov](), people have been acting unusual. He was offering them ointments, herbal remedies and elixirs for alleviating chronic pains and other worries. But this is not where Krembors story ends, he talks about how objects vanished from one moment to another and then suddenly appeared elsewhere in the room or in entirely another one, strange sounds from empty rooms and the feeling of constantly being watched. Krembor fled from Northbrook in a panic, leaving behind everything and everyone.
+The Inn in Northbrook is still operational, and there are two patrons around. If the player characters decide to stay, they will experience the most bland food they had, conversations leading to nowhere and furniture moving when the do not look. The residents of the small village have been replaced by husks as a byproduct of a skulk investation, let loose by Apothecary Tanov. During his stay he brought one Skulk with him, which he used to murder the people he sedated by his tinctures. Those victinms in turn were turned into skulks as well (5 skulks in the end).
+In the hidden and locked backroom of the basement of the tavern a gruesome sight can be found where the desecrated bodies of the victims lie on a pile. There are 11 bodies including Gwen (the girl Krembor wanted to propose). Opening the door will cause the activation of a messaging stone "I now know who you are, better watch your backs".
+
+<details>
+ <summary>Skulk</summary>
+
+Skulk are made by necromantic magics that pull a lingering soul from a fresh corpse. It is twisted and tured via a lengthy process into a literal shadow of what the person once was, driven by maliciousness and servitude for its creator. Skulks assume the form of their last kill and pretend to be another in a very lifeless way. The Illusion can only be seen through by casting detect magic and succeeding a Arcana DC 15 check (with Dectect Magic Advantage). 
+</details>
   
 ## Westemar
 
@@ -256,7 +268,7 @@ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plan
   <summary>Perrik, Szur's Blade</summary>
  </details>
 
- ### Apothecary Tanov
+ ### Apothecary Jerzy Tanov
 
  Failed his experiment in the Laboratory inside the cavern hwere it went on a rampage. He also created SKulks in [Placeholder] Village as another experiment. He currently resides in an abandoned manor where he operated from, surrounded by his creations and lackies.
    
@@ -375,6 +387,8 @@ Harper is the resident man of the cloth in Grenzstad. A smaller, thin man with t
 ## People of Northbrook
 
 ### Krembor Pondfisher
+
+A young, unkept lad. Shaggy dark hair, attire of a fisherman. Lived in Northbrook where he followed the trade of fishing after his parents passed early in his youth. He is timid by nature and scared by the recent events. Krembor had a sweet heart, Gwen, in the village that is why he could never leave before although ever since the passing of his partens he never felt at home in Northbrook anymore. Too timid to just approach her, he planned on proposing to her as a sign of his courage and seriousness. After resolving the issue in Northbrook he will offer the party his family heirloom ring (a silver ring with a inlaid garnet gemstone (25g). 
 
 ## Magistrates of Altanarra
 ### Gerrad Driscoll
