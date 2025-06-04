@@ -278,7 +278,32 @@ Leader of the Szurists. His goal is to fulfill his dark masters once foiled plan
 
  ### Apothecary Jerzy Tanov
 
- Failed his experiment in the Laboratory inside the cavern hwere it went on a rampage. He also created SKulks in [Placeholder] Village as another experiment. He currently resides in an abandoned manor where he operated from, surrounded by his creations and lackies.
+Poses as a healer / quack to get into villages and earn the villagers trust. Sells ointments and salves laced with toxins to make his victims lethargic.
+Failed his experiment in the Laboratory inside the cavern hwere it went on a rampage. He also created SKulks in [Placeholder] Village as another experiment. He currently resides in an abandoned manor where he operated from, surrounded by his creations and lackies.
+Moved to Westbrook to continue his research on life essence and how to manipulate souls into powerful thralls. Due to his experiments the villagers either ceased life or were twisted into Skulks.
+
+<details>
+ <summary>Jerzy Tanov</summary>
+
+![image](https://github.com/user-attachments/assets/d6c76143-1648-4809-b210-0335161e2149)
+
+ 
+</details>
+
+<details>
+ <summary>Tanov in his hideout</summary>
+
+![image](https://github.com/user-attachments/assets/0a00bc21-34bc-462e-8185-1d3b3b6f4de1)
+
+ 
+</details>
+
+<details>
+ <summary>Jerzy Tanov fight</summary>
+
+ ![image](https://github.com/user-attachments/assets/6822a19a-2009-49ec-8bac-9775a9708b97)
+
+</details>
    
   ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
