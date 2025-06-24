@@ -64,8 +64,11 @@ The bustling capitol of Altanarra. Much like the sigil of the country, the citie
  </details>
  
   ## Nordemar
+  The Central-Northen province of Altanarra, bordering to the Sea partially the mountain ridge to Hyllestad. All of the major rivers flowing from the mailand to the sea merge into the [Threnn River]() here, making the province a turning point for national and international trade with the captiol [Riverheart]() being the biggest trade city in the kingdom. The province produces a more or less self-sustaining amount of produce but trade and service makes up the biggest part of their wealth. Being in contact with many traders and different people makes the residents of Nordemar more open for newcomers but also weary of people trying to pull of a scam or even trying to get one over them self.
+  
   ### Riverheart
   ## Ostemar
+  Considered the most bleak of the provinces, Ostemar lies to the Eastern side of Altanarra and is considered to be the Bulwark against Daz'alor and Hyllestad. Fending off invaders from the North and the occasional skirmish has made the people of Ostemar a hardy bunch and exellent warriors. Despite that they are a welcoming bunch as long as you are honorable and true. One of the main exports of Ostemar are either their excellent and battleproven weapons or their warriors as mercenaries or guards.
   ### Borrsted
   ## Sodemar
   The most Southern province of Altanarra, bordering to [Ulvenwald]() in the South, the massive [Dragonridge Mountains]() in the East, the mysterious [Forlonn Forest]() to the North and Hearthlands to the West. **Jher River** is to the North flowing from the mountain range towards Lake Morrighan. The Province is neither poor nor wealthy as most of its trade is compromised of Stone harvested from quarries along the mountainside and wood. Most of the populace is involed in the production of one of these goods, farming or fishing (especially around Lake Morrighan). [Gerrad Driscoll]() is the magistrate ruling the province from his castle in **Duskhaven** advised by [Inyll]() a mage of Seydir Academy. Traders from outside are rare but not unusual as [Ulvenwald]() is closeby. The people are not afraid of newcomers but weary nontheless as the conflict on the Southeastern borders are present on the poeples mind.
