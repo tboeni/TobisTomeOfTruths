@@ -284,6 +284,7 @@ Moreover Apothecary [Tanov]() will be present in this room. He was expecting the
 Stalls still stand, but trade has all but died. The only vendor now is a stooped old woman selling pale mushrooms and dried lake eels. She’s unnaturally still and speaks in a strangely delayed rhythm, as if something inside her is mimicking speech rather than understanding it.
  
 </details>
+
 ## Westemar
 
 ### Retgard
