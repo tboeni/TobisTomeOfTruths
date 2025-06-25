@@ -228,7 +228,58 @@ Skulk are made by necromantic magics that pull a lingering soul from a fresh cor
 
 
 </details>
-  
+
+### Kesselbrook
+
+Kessel brook is a small village to the East of Lake Morrighan. Most of the people living there are either farmers or fishermen. The people are wary of outsiders ever since what strange thing happened to the neighbouring village of Dredgewatch, formerly known as Billowatch. 
+There is a tavern but the people are keeping to themselves and there are no other travellers visiting the village. Most utilities can be bough from the tavernkeep.
+
+### Dredgewatch // Billowatch
+
+Dredgewatch sits crouched on the northern edge of the lake like a village waiting to be buried. The air is thick, heavy with fog even in daylight, and everything smells faintly of cold iron and wet stone. Half-submerged docks creak softly, though no boats rest there. Somewhere, a bell rings as if from under the water. A couple of houses are spun along the main road through the village and close to the waters edge a half-sunken chapel can be spotted, leaning towards the water like a drunkard. Perched on the hill just beyond the village proper is an old slate manor, once the estate of a reclusive merchant. Now, its upper windows are bricked up, and figure linger in and around the building.
+
+<details>
+ <summary>The Sunken Chapel</summary>
+</details>
+The chapel leans into the lake like a penitent drunk, its front door just above water level and its altar flooded to the knees. The water glows faintly green at night. A cracked statue of Ilmather looms at the far end, its face worn smooth by time—just time? Villagers say it flooded after a “bad storm” two months ago. However nobody else from the region seems to recall a "bad storm" during that time. Sometimes a bell can be heard faintly ringing, as if it came from under the water though the water inside is ankle to knee-deep depending on where you stand. The inside smells of mildew and incense, long since curdled. 
+
+* The Altar:
+Half-submerged by water and if cleared / inspected reveals a recently etched symbol of a skull with kraken arms spouting from it over the previous praying hands of Ilmather.
+
+* Sealed Crypt Entrance:
+A flooded stairwell behind the altar, sealed by a heavy grate, blocked by water as it filled the stairwell completely.
+
+* Floor Carvings:
+Inspecting the floor which is covered in water, cracked and shattered stone tiles reveal carvings of presumably a previous flooring. It is hard to make out in its enirety, as it is weathered by years of ruin. What can be seen resembles a lake with hands reaching upward, and an eye beneath the waves—not menacing, just watchful. Awake yet dreaming.
+
+![image](https://github.com/user-attachments/assets/684f7ed1-c216-42b1-b7c3-4b842dc7da20)
+
+
+
+<details>
+ <summary>The Stone Manor</summary>
+ *Perched like a crow on the cliffside, the manor watches the village with shuttered eyes. Once a merchant’s estate, now the stone is slick with black moss, and the wrought-iron fence that encircles it is warped and rusting, as if recoiling from within.*
+Built in grey slate and lakestone, the manor has two stories and a root cellar, with the rear pressed against the hillside. Most windows are bricked up or blacked out, but faint light leaks from the cracks at night.
+
+![image](https://github.com/user-attachments/assets/99bc1ba4-b8fd-486a-8577-64bbee7765aa)
+
+
+* Cellar:
+3 cultists are sifting through bodies that are pile in the corner of the root cellar. One is taking notes and it seems like they are looking for some specific features in the corpses as there are two distinct piles, one large one and a small one. However it is unclear what purpose this separation has.
+
+* First Floor and Hallway:
+The first floor is mainly a living area, makeshift sleeping quarters are located in the far corner of the room near the hearth. A crude decor is presented to the adventurers, pacified undead with decaying flesh serve as furniture. Immobile and only the occasional almost silent moan gives them away. Villager serving as chairs, tables and torchstands in their undead demise.
+
+* Altar room:
+Piles of Journals litter the room, some torn others indecipherable. Soul jars cover a rack inscribed with villagers’ names, including one which the party has met previously "Olaf". An arcana check will reveal, that the soul jars (after the fight) are all drained of power. Amonst the piles of journals one note sticks out, marked with a crudely drawn eye which pulls the attention towards it. Describing _"dreamless sleep benath the surface"_.
+
+Moreover Apothecary [Tanov]() will be present in this room. He was expecting the adventureres, however not quite as soon and thus is not fully prepared to take them on as he wanted to. 
+
+</details>
+
+<details>
+ <summary>The empty market</summary>
+</details>
 ## Westemar
 
 ### Retgard
@@ -303,6 +354,13 @@ Moved to Westbrook to continue his research on life essence and how to manipulat
 
 <details>
  <summary>Jerzy Tanov fight</summary>
+
+ He is a [death cultist](https://www.aidedd.org/monster/death-cultist)
+ 
+** Battlefield actions**: 
+_ Death's Scythe:_
+Gripping the Scythe with both hands and twisting his body, Tanov prepares to cleave all targets within 10ft of himself. The scythe begins to glow with an eerie greenish colour and one of the soul jars on the rack behind him shatters (10 jars).
+ 
 
  ![image](https://github.com/user-attachments/assets/6822a19a-2009-49ec-8bac-9775a9708b97)
 
