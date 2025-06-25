@@ -35,7 +35,7 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
  <details>
  <summary><h1>Ulwenwald</h2></summary>
  The neutral land centering Omnia. Home to Solaris, the flying city, and birthplace of many a powerful magic user. A neutral country, striding for progress and peace. Solaris sends advisors to the most powerful houses in each of the kingdoms to influence and guide them towards a better future. Each kingdom has 5 magic users at their disposal.
- **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academ](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
+ **Captiol:** Solaris, the flying city, ruled by the head of [Seydir Academy](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#seydir-academy), [Sofos Alitheia](https://github.com/tboeni/TobisTomeOfTruths/edit/main/Shadows%20over%20Altanarra.md#sofos-alitheia)
  
  </details>
 
@@ -297,6 +297,9 @@ Stalls still stand, but trade has all but died. The only vendor now is a stooped
   ## Lake Morrighan
   ## Non-Altanarran
   ### Seydir Academy
+
+Also referred to often simply as "The Academy", Seydir Academy is the one and only place of knowledge and training in the arts of the magical and sorcerous. The people of influence in Omnia have soon realized that magic brings a unpredictability in power imbalance to the table if left unchecked and together with [Sofos Alitheia](), then known simply as a sage wandering the lands with a handful of devout followers, they decided that he should be a teacher of magic for all Omnians that show potential. And thus Seydir Academy was founded and each nation gave a piece of land as an offering, which would then be known as the neutral land of [Ulwenwald]. The Academy was built as a joint venture in the city of Solaris and upon its completion, previously unknown magic emitting from Sofos rose the city into the sky. Decades and centuries now went by and mages came and went but Sofos still is headmaster of Seydir Academy. Nobody truly know who he is and the only people that have seen Sofos in recent years are his most trusted and full-fledged wizards under the sacred oath of the Academy.
+  
   # Organizations and People of Interest
 
   ## The Collegium
