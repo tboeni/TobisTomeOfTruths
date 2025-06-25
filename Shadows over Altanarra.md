@@ -236,12 +236,13 @@ There is a tavern but the people are keeping to themselves and there are no othe
 
 ### Dredgewatch // Billowatch
 
-Dredgewatch sits crouched on the northern edge of the lake like a village waiting to be buried. The air is thick, heavy with fog even in daylight, and everything smells faintly of cold iron and wet stone. Half-submerged docks creak softly, though no boats rest there. Somewhere, a bell rings as if from under the water. A couple of houses are spun along the main road through the village and close to the waters edge a half-sunken chapel can be spotted, leaning towards the water like a drunkard. Perched on the hill just beyond the village proper is an old slate manor, once the estate of a reclusive merchant. Now, its upper windows are bricked up, and figure linger in and around the building.
+Dredgewatch sits crouched on the northern edge of the lake like a village waiting to be buried. The air is thick, heavy with fog even in daylight, and everything smells faintly of cold iron and wet stone. Half-submerged docks creak softly, though no boats rest there. Somewhere, a bell rings as if from under the water. A couple of houses are spun along the main road through the village and close to the waters edge a half-sunken chapel can be spotted, leaning towards the water like a drunkard. Perched on the hill just beyond the village proper is an old slate manor, once the estate of a reclusive merchant. Now, its upper windows are bricked up, and figure linger in and around the building. Most villagers seem withdrawn, subdued, or quietly terrified. A few show subtle signs of confusion almost resembling domination.
 
 <details>
  <summary>The Sunken Chapel</summary>
-</details>
+
 The chapel leans into the lake like a penitent drunk, its front door just above water level and its altar flooded to the knees. The water glows faintly green at night. A cracked statue of Ilmather looms at the far end, its face worn smooth by time—just time? Villagers say it flooded after a “bad storm” two months ago. However nobody else from the region seems to recall a "bad storm" during that time. Sometimes a bell can be heard faintly ringing, as if it came from under the water though the water inside is ankle to knee-deep depending on where you stand. The inside smells of mildew and incense, long since curdled. 
+The graveyard behind the chapel has fresh graves… too fresh for a village with no recent births or new arrivals.
 
 * The Altar:
 Half-submerged by water and if cleared / inspected reveals a recently etched symbol of a skull with kraken arms spouting from it over the previous praying hands of Ilmather.
@@ -254,7 +255,7 @@ Inspecting the floor which is covered in water, cracked and shattered stone tile
 
 ![image](https://github.com/user-attachments/assets/684f7ed1-c216-42b1-b7c3-4b842dc7da20)
 
-
+</details>
 
 <details>
  <summary>The Stone Manor</summary>
@@ -279,6 +280,9 @@ Moreover Apothecary [Tanov]() will be present in this room. He was expecting the
 
 <details>
  <summary>The empty market</summary>
+
+Stalls still stand, but trade has all but died. The only vendor now is a stooped old woman selling pale mushrooms and dried lake eels. She’s unnaturally still and speaks in a strangely delayed rhythm, as if something inside her is mimicking speech rather than understanding it.
+ 
 </details>
 ## Westemar
 
@@ -357,7 +361,7 @@ Moved to Westbrook to continue his research on life essence and how to manipulat
 
  He is a [death cultist](https://www.aidedd.org/monster/death-cultist)
  
-** Battlefield actions**: 
+**Battlefield actions**: 
 _ Death's Scythe:_
 Gripping the Scythe with both hands and twisting his body, Tanov prepares to cleave all targets within 10ft of himself. The scythe begins to glow with an eerie greenish colour and one of the soul jars on the rack behind him shatters (10 jars).
  
