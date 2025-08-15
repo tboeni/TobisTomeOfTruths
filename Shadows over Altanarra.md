@@ -285,6 +285,23 @@ Stalls still stand, but trade has all but died. The only vendor now is a stooped
  
 </details>
 
+### Bracken Hallow
+
+
+Long ago, the hamlet of Bracken Hallow was abandoned when a sinkhole swalled much of the settlement. It is now a half-submerged ruin, where leaning chimneys and collapsed cottages jut from a boggy, mushroom-choked mire. Below the surface, sinkhole caves are strung with colorful dripping mycelium, bioluminescent spores and stagnant black pools. The shard's corruption is evident - strange fungal growths in vaguely human shapes, creatures altered beyond recognition. The air is thick with spore clouds that dim light and muffle sound. Mushroom caps that slowly turn to face moving creatures. Occasional faint psychic whispers in an unknown tongue.
+The process was initally slow but ineviteable and the townsfolk eventually needed to leave their homes behind. In the damp darkness below, a rare subterranean fungus took root in the crypt where the dead were interred. When somehow through sheer conincidence a shard of Szur's phylactery fell through the shifting sediments into the spore-bed decades ago, the colony awakened into a hive-mind. Infused with the shard's necromantic magic, the fungus learned to infest corpses, using them as puppets to protect its domain.
+
+<details>
+<summary>The Myco-Hag</summary>
+
+Once a green hag that made its domain among the ruins of the hamlet after it was abandoned by the sinking. Perfect for a lair, if it was not already occupied. She died years ago from the fungal infestation that brought her downfall not long after she made her home in the ruins. The colony's mycelium ruins now through her nervous system, animating her corpse as a fungal champion. Her body dead-ish, decaying but held together by fungal matter replacing parts that fell off or dare to and fighting as a puppet of the hive-mind.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fd132f3a-f0bd-4a61-b3d7-703fc9c01faf" />
+
+[Myco-Hag Statblock](https://drive.google.com/file/d/1dKQkX5GGHvo_62mnNzPgPJ1hZA1-C-me/view?usp=sharing)
+
+</details>
+
 ## Westemar
 
 ### Retgard
