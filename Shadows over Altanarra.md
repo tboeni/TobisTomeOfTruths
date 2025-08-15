@@ -199,8 +199,8 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers..
 
 ### Cave Laboratory
-Not far to the East of the Goldtooth camp in the middle of giant land, the Szurists have established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
-Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, Szur's Mind](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#velcor-szurs-mind) urging the leading apothecary to be thorough as the success of these experiments is crucial for their success.
+Not far to the East of the Goldtooth camp in the middle of giant land, the Sepulchral Accord has established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
+Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, The High Voice](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#velcor-the-high-voice) urging the leading apothecary to be thorough as the success of these experiments is crucial for their success.
 
 <details>
  <summary>Helmed Horror</summary>
@@ -304,39 +304,32 @@ Also referred to often simply as "The Academy", Seydir Academy is the one and on
 
   ## The Collegium
   
-  ## Cult of Szur / Szurists
+  ## The Sepulchral Accord
   Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Szurs Phylactery for a dark ritual. The [High Inquisitors](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
   The Cult occupied small hideouts all over Altanarra. 
 
-  The Szurists are divided into ranks:
+  The Accord is divided into ranks:
 * Aspirants (Grunts, the lowest rank. Used for manual labor and as expendable forces)
 * Death Guards (Lieutenants, commanding rats in martial sitations and overseeing expedidtions and facilities)
-* Apothecaries (on a similar ranking as Death Guards but not on the same chain of command, they conduct research and experiments in the name of Szur)
-* Szur's Blade (Leader of everything martial)
-* Szur's Mind (Defacto High Cultist and Leader)
+* Apothecaries (on a similar ranking as Death Guards but not on the same chain of command, they conduct research and experiments)
+* The High Voice (Defacto High Cultist and Leader)
 
 <details>
- <sumamry>Symbol of the Szurists</sumamry>
+ <sumamry>Symbol of the Sepulchral Accord</sumamry>
 
- ![Symbol of the Szurists](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
+ ![Symbol of the Sepulchral Accord](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
 
 </details>
 
-### Velcor, Szur's Mind
+### Velcor, The High Voice
 
-Leader of the Szurists. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
+Leader of the Sepulchral Accord. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
 
 <details>
- <summary>Velcor, Szur's Mind</summary>
+ <summary>Velcor, The High Voice</summary>
  
 
 </details>
-
- ### Perrik, Szur's Blade
-
- <details>
-  <summary>Perrik, Szur's Blade</summary>
- </details>
 
  ### Apothecary Jerzy Tanov
 
@@ -594,7 +587,7 @@ One of his massive canines is golden, hence the name of his clan and he likes to
 ## Clan Thundergut
 
 ### Chief Kol Thundergut
-Kol has made a deal with the Szurists and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Szurists access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
+Kol has made a deal with the Accord and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Accord access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
 
 ## Xoathra’lythidraan Morru’qethis, The Dreamless One
 _(pronounced roughly ZOH-ah-thrah-LEETH-ee-drahn MOR-roo-KEH-this)_
