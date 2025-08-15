@@ -72,3 +72,17 @@ Drawback: Looking through the lens too long shows you reflections of things that
 
 
 </details>
+
+## Alchemyst's Repeater
+
+Weapon (light crossbow), rare
++1 bonus to attack and damage rolls.
+Once per short rest, you can declare an attack to be Alchemically Charged. On hit, the target takes an extra 2d6 necrotic damage and must succeed on a DC 14 Constitution saving throw or be poisoned until the end of your next turn.
+Requires light crossbow proficiency.
+
+<details>
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f56a574-4611-48ae-a880-df4109ffa66c" />
+
+  
+</details>
