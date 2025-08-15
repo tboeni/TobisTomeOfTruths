@@ -41,3 +41,34 @@ The Detector can be used once per long rest to detect the presence of other frag
 
   
 </details>
+
+## The Apothecary's Ledger
+
+A small, leather-bound book with a clasp in the shape of an open eye. It contains Tanov’s encrypted notes on shard experimentation.
+Effect:
+While studying the ledger for at least 10 minutes, you can identify the basic magical properties of any shard-corrupted item or creature.
+Once per long rest, you can recall a “formula” from the ledger to gain advantage on one saving throw vs disease, poison, or necrotic damage.
+Drawback: The notes are laced with disturbing diagrams and fragmented prayers to unknown entities — prolonged study risks small SAN-style Wisdom saves to avoid nightmares.
+
+<details>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/79522904-58d6-4fde-9fd6-907420e07f66" />
+
+  
+</details>
+
+## Necrotic Lens
+
+A blackened monocle or small scope, made from shard-dust fused into glass. Sometimes a visage shifts over the dark glass but is gone in the blink of an eye.
+Effect:
+As a bonus action, you can focus through the lens and designate a creature within 150 ft.
+Until the end of your turn, your next ranged weapon attack against that target deals an additional 1d6 necrotic damage.
+3 charges, regains 1d3 charges at dawn.
+Drawback: Looking through the lens too long shows you reflections of things that aren’t there, requiring a DC 12 WIS save to avoid being rattled (flavor only, or minor disadvantage for 1 round).
+
+<details>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9b13e927-9c9a-48b1-b0cf-98fcf3f57382" />
+
+
+</details>
