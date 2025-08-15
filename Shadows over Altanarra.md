@@ -361,8 +361,16 @@ Moved to Westbrook to continue his research on life essence and how to manipulat
  ![image](https://github.com/user-attachments/assets/6822a19a-2009-49ec-8bac-9775a9708b97)
 
 </details>
-   
-  ## Forsworn
+
+ ### Apothecary Vaelric Bodnar
+
+ <details>
+  <summary>Vaelric Bodnar</summary>
+ 
+ </details>
+
+ 
+ ## Forsworn
   The highest ranking paladings of the [Outriders](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#outriders), the High Inquisitors, form the [Forsworn](https://docs.google.com/document/d/e/2PACX-1vRhwM4iE-r0Vi07Oylui3JN2-pXIFHK9C-EO8phDwrrfCvQJ9UPjTpjb8xmkW-EdRAitU7L7q1efBYo/pub).
   They are the immortal guardians of the living in Altanarra, however it is unknown who these High Inquistors are and even their existence is a myth. In the rare cases that someone had seens a glimpse of an High Inquisitor they simply saw armorered holy warriors their faces hidden behind adorned helmets encircled by a sanguine halo 
   ### Idris Dawnbringer
@@ -595,6 +603,12 @@ Common Folk: Only “The Dreamless One”
 Cultists: “Xoathra” in chants or sigils
 Ancient Texts & The Keeper’s Sect: Full Xoathra’lythidraan Morru’qethis when invoking or describing the entity’s binding
 Whispered in Fear: “Lythidraan” — used as a curse among the old forest folk, meaning “memory-eater”.
+
+An ancient alien being that was before anything, that will be when nothing else is. When Ilmather first emerged he was much more active and the fledling god saw this eldritch creature as a direct threat to his rule as the people of old still revered it as a god and Xoartha remembered the past without the gods of new. Ilmather tried to erase Xoartha from existence but failed to do so. Instead, he bound it deep below the Lake Morrighan with the **Seal of a Thousand Prayers** which each required a sacrifice of Ilmather himself, a divine lattice maintained by the lakes geometry and a god-forged key. The act of binding the creature into a dreamless slumber released its "death-dream" as it cannot be dreamt — a wave of necrotic essence that seeded the land with the very curse that haunts Altanarra to this day.
+
+### Lothar Vargrecht, The Keeper
+
+Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He fled Dredgewatch as he felt the Sepulchlar Accord closing in on his location. He used his latent connection to the ancient Xoathra to invoke a storm that aimed to partially sink the chapel to make its secrets even harder to access and possibly buy him time to either hide away or come up with a solution to get rid of the problem(s).
 
 ---
 
