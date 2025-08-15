@@ -596,6 +596,18 @@ One of his massive canines is golden, hence the name of his clan and he likes to
 ### Chief Kol Thundergut
 Kol has made a deal with the Szurists and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Szurists access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
 
+## Xoathra’lythidraan Morru’qethis, The Dreamless One
+_(pronounced roughly ZOH-ah-thrah-LEETH-ee-drahn MOR-roo-KEH-this)_
+
+**Xoathra** → The name mortals can manage, possibly meaning "the Sleepless Current" in a forgotten language.
+**’lythidraan** → A word fragment evoking cephalopod/aboleth ancestry, suggesting “many-mind” or “all-memory.”
+**Morru’qethis** → Could be interpreted as "bound beneath the waters by divine chain" — an echo of Ilmather’s sealing act.
+
+Common Folk: Only “The Dreamless One”
+Cultists: “Xoathra” in chants or sigils
+Ancient Texts & The Keeper’s Sect: Full Xoathra’lythidraan Morru’qethis when invoking or describing the entity’s binding
+Whispered in Fear: “Lythidraan” — used as a curse among the old forest folk, meaning “memory-eater”.
+
 ---
 
 
