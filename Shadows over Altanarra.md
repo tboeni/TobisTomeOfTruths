@@ -356,12 +356,7 @@ Moved to Westbrook to continue his research on life essence and how to manipulat
 <details>
  <summary>Jerzy Tanov fight</summary>
 
- He is a [death cultist](https://www.aidedd.org/monster/death-cultist)
- 
-**Battlefield actions**: 
-_ Death's Scythe:_
-Gripping the Scythe with both hands and twisting his body, Tanov prepares to cleave all targets within 10ft of himself. The scythe begins to glow with an eerie greenish colour and one of the soul jars on the rack behind him shatters (10 jars).
- 
+ [Tanov Stat Block](https://drive.google.com/file/d/1MOK2yJeGcEF-cAt-LWCxd5FLvpGRYPDF/view?usp=sharing)
 
  ![image](https://github.com/user-attachments/assets/6822a19a-2009-49ec-8bac-9775a9708b97)
 
