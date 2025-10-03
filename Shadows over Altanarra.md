@@ -44,9 +44,8 @@ Omnia is split into 5 different Territories, with differing beliefs, governments
   <summary><h1>Altanarra</summary>
     
   **Captiol:** Hearth, the heart of the Altanarran Highlands. Ruled by [King Silas Germaine](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#king-silas-germaine)
-![Altanarra](https://github.com/user-attachments/assets/763a9f86-7525-4478-af2e-9005c9737e31)
+  ![Altanarra (1)](https://github.com/user-attachments/assets/76ea5694-f2cb-466a-88c5-18eeaadb5fc2)
 
-  
   # Locations
   
  </details>
