@@ -302,6 +302,30 @@ Once a green hag that made its domain among the ruins of the hamlet after it was
 
 </details>
 
+### Bonecrag
+
+A jagged blackstone formation jutting up from the tundra-like plains, resembling a shattered fang. From afar, it looks like a titan’s broken tooth driven into the earth. The name is not just figurative: the slopes are strewn with enormous bleached bones (large beasts, dire wolves, even humanoids). Dozens of crude timber halls and massive hide tents sprawl around the crag. Fires burn in huge pits, the smoke spiraling upward like banners of ash. Tribes gather here — ogres, hill giants, stone giants, ettins — forming a ragged but fearsome court.
+
+<details>
+<summary>Bonecrag</summary>
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6081b98a-7c19-4608-ae78-7f9605ba16ea" />
+
+ 
+</details>
+
+<details>
+<summary>The Maw Arena</summary>
+
+At the base of the crag lies a circular pit ringed with stone and bones, where chieftains fought Kol for dominance. Stained with blood, it serves as both a dueling ground and a meeting area. 
+Kol’s crude throne was a raised basalt slab decorated with shields and bones. Bolg may keep it as-is, or transform it into something more fitting for his reign — perhaps swapping bones for banners.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c430678-f123-4ded-9120-0dd44ea22071" />
+
+ 
+</details>
+
+
 ## Westemar
 
 ### Retgard
@@ -608,6 +632,14 @@ One of his massive canines is golden, hence the name of his clan and he likes to
 
 ### Chief Kol Thundergut
 Kol has made a deal with the Accord and in exchange for a magic ring (which grants him magical abilites and a hefty sum of gold). He gave the Accord access to the resting place of former giant leaders (which is a cardinal sin among giant kind).
+
+<details>
+<summary>Kol Thundergut</summary>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/16afef87-c84f-4b5c-b4d9-fd09ac674efb" />
+
+ 
+</details>
 
 ## Xoathra’lythidraan Morru’qethis, The Dreamless One
 _(pronounced roughly ZOH-ah-thrah-LEETH-ee-drahn MOR-roo-KEH-this)_
