@@ -123,6 +123,7 @@ If you die while attuned, your body rapidly grows mushrooms and reanimates as a 
 
 <details>
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b739067-dad7-4e5f-8e9d-546ee943d3cf" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/789a0d9e-6ca3-4c45-95b0-895fc767f3d3" />
+
 
 </details>
