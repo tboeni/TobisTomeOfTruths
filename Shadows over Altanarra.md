@@ -293,6 +293,8 @@ The process was initally slow but ineviteable and the townsfolk eventually neede
 <details>
 <summary>The Sinkhole</summary>
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a360ce51-eb74-42e3-a350-b78fb7087bf4" />
+
 The Upper Rim: Spores on the Wind
 
 The party reaches the sinkhole rim at dusk. The forest around Bracken Hollow is silent except for faint, rhythmic pulses — as if the ground itself breathes. They find remnants of a camp — broken lanterns, a torn cloak with the mark of the Covenant of the Veil, and crates of alchemical reagents. This is where they realize the cult was here first but something went wrong. DC 13 Survival or Investigation to find a safe descent path (collapse hazard otherwise.
