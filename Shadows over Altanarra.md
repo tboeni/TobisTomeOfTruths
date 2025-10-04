@@ -658,6 +658,11 @@ An ancient alien being that was before anything, that will be when nothing else 
 
 Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He fled Dredgewatch as he felt the Sepulchlar Accord closing in on his location. He used his latent connection to the ancient Xoathra to invoke a storm that aimed to partially sink the chapel to make its secrets even harder to access and possibly buy him time to either hide away or come up with a solution to get rid of the problem(s).
 
+
+## Antonio the Travelling Merchant
+
+A wiry, middle-aged man with an oversized fur-lined coat, patched in a dozen colors. His cart is drawn by a stubborn-looking mule named Rosa. His wide-brimmed hat jingles faintly with trinkets tied to its brim.Speaks with grand gestures, rolling his r’s and humming odd little tunes under his breath. Always chuckles at his own jokes. Though he doesn’t mention it, Antonio always seems to appear unharmed, no matter the region. He might hint: “Ah, fortune favors Antonio! I always arrive in one piece. Knows snippets of local history, gossip, and even cult whispers that he shouldn’t. He insists it’s just things “he heard along the road.
+
 ---
 
 
