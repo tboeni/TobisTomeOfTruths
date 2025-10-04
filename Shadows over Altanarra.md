@@ -291,6 +291,38 @@ Long ago, the hamlet of Bracken Hallow was abandoned when a sinkhole swalled muc
 The process was initally slow but ineviteable and the townsfolk eventually needed to leave their homes behind. In the damp darkness below, a rare subterranean fungus took root in the crypt where the dead were interred. When somehow through sheer conincidence a shard of Szur's phylactery fell through the shifting sediments into the spore-bed decades ago, the colony awakened into a hive-mind. Infused with the shard's necromantic magic, the fungus learned to infest corpses, using them as puppets to protect its domain.
 
 <details>
+<summary>The Sinkhole</summary>
+
+The Upper Rim: Spores on the Wind
+
+The party reaches the sinkhole rim at dusk. The forest around Bracken Hollow is silent except for faint, rhythmic pulses — as if the ground itself breathes. They find remnants of a camp — broken lanterns, a torn cloak with the mark of the Covenant of the Veil, and crates of alchemical reagents. This is where they realize the cult was here first but something went wrong. DC 13 Survival or Investigation to find a safe descent path (collapse hazard otherwise.
+
+The Middle Chamber: The Lost Scouts
+
+Dim, half-flooded tunnels lit by ghostly blue fungus. The air vibrates faintly, like the hum of insects inside the skull.
+Encounters:
+2–3 Fungal Thralls (once cultists, still wearing their torn black robes).
+1 Sporecaller lurking further in, whispering in fragmented, feverish speech.
+
+Spore clouds hover over stagnant pools. When disturbed (by combat or noise), they release toxic bursts (Con save DC 13, poison damage).
+The Myco-Hag doesn’t appear yet — just glimpses: distorted shadows, wet footprints that weren’t there before, and faint laughter echoing through the tunnels. Maybe one player makes a high Perception roll and sees her silhouette on the wall behind them, though she’s nowhere in sight.
+
+The Lower Chamber: The Fungal Heart
+
+The path opens into a cavern dominated by a massive fungal column, pulsing around the embedded shard of Szur. Thick mycelial veins crawl along the walls, feeding off corpses — many of which were once cult scouts. The Myco-Hag emerges, towering and grotesque, part woman, part fungus, whispering in two voices — her own and the hive’s.
+
+“They came to steal the heart. Now they feed it. And soon… so will you.
+
+The fight begins with 2–4 fungal husks (the possessed cult scouts).nThe Hag manipulates terrain — spore eruptions, tendrils grappling, and fungal husks reanimating. Destroying the shard or severing its roots weakens her (reduces lair effects).
+
+After defeating the Hag, one PC touching the shard experiences a psychic echo — fragmented memories of the cult’s expedition:
+Apothecary Tanov ordering the scouts to retrieve the shard.
+Their torches flickering as spores crawl over them.
+A final scream as one begs to be burned.
+
+</details>
+
+<details>
 <summary>The Myco-Hag</summary>
 
 Once a green hag that made its domain among the ruins of the hamlet after it was abandoned by the sinking. Perfect for a lair, if it was not already occupied. She died years ago from the fungal infestation that brought her downfall not long after she made her home in the ruins. The colony's mycelium ruins now through her nervous system, animating her corpse as a fungal champion. Her body dead-ish, decaying but held together by fungal matter replacing parts that fell off or dare to and fighting as a puppet of the hive-mind.
@@ -662,6 +694,13 @@ Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He
 ## Antonio the Travelling Merchant
 
 A wiry, middle-aged man with an oversized fur-lined coat, patched in a dozen colors. His cart is drawn by a stubborn-looking mule named Rosa. His wide-brimmed hat jingles faintly with trinkets tied to its brim.Speaks with grand gestures, rolling his r’s and humming odd little tunes under his breath. Always chuckles at his own jokes. Though he doesn’t mention it, Antonio always seems to appear unharmed, no matter the region. He might hint: “Ah, fortune favors Antonio! I always arrive in one piece. Knows snippets of local history, gossip, and even cult whispers that he shouldn’t. He insists it’s just things “he heard along the road.
+
+<details>
+ <summar>Antonio and Rosa</summar>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bc82c8e9-a6a0-4bab-8e41-6985cd8d1b7a" />
+ 
+</details>
 
 ---
 
