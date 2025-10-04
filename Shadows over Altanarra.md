@@ -696,7 +696,7 @@ Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He
 A wiry, middle-aged man with an oversized fur-lined coat, patched in a dozen colors. His cart is drawn by a stubborn-looking mule named Rosa. His wide-brimmed hat jingles faintly with trinkets tied to its brim.Speaks with grand gestures, rolling his r’s and humming odd little tunes under his breath. Always chuckles at his own jokes. Though he doesn’t mention it, Antonio always seems to appear unharmed, no matter the region. He might hint: “Ah, fortune favors Antonio! I always arrive in one piece. Knows snippets of local history, gossip, and even cult whispers that he shouldn’t. He insists it’s just things “he heard along the road.
 
 <details>
- <summar>Antonio and Rosa</summar>
+<summary>Antonio and Rosa</summary>
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bc82c8e9-a6a0-4bab-8e41-6985cd8d1b7a" />
  
