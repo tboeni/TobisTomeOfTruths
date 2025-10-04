@@ -112,3 +112,17 @@ Earthen Reprisal (1/short rest): As a bonus action, slam the ground. Each creatu
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/40261516-5372-4df6-99d1-52d42ce0e1dc" />
 
 </details>
+
+## Sporeheart Amulet
+
+A lumpy, amber-green pendant resembling a desiccated seedpod. The faint pulse of a heartbeat can be felt when held.
+While attuned, you gain resistance to poison damage and advantage on saving throws against disease.
+Once per long rest, you can release a Cloud of Spores (15-ft radius, DC 15 Con save or be poisoned until end of your next turn).
+If you die while attuned, your body rapidly grows mushrooms and reanimates as a Fungal Thrall after 1 minute unless destroyed.
+*This is likely part of the Myco-Hag’s body — a parasitic organ crystallized into jewelry. Removing it from her corpse causes a spore bloom.*
+
+<details>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5b739067-dad7-4e5f-8e9d-546ee943d3cf" />
+
+</details>
