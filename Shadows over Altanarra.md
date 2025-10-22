@@ -436,10 +436,17 @@ Moved to Westbrook to continue his research on life essence and how to manipulat
 
 </details>
 
- ### Apothecary Vaelric Bodnar
+ ### Apothecary Vaelric (Alveric Bodnar)
+
+Magister of Solaris, working with the apothecatries for his own goal. He does not intend to follow Szur's footsteps but he is interested in necromancy and forbidden magics which includes the freeing of Xoathra thus bringing primal magic back into the world.
 
  <details>
   <summary>Vaelric Bodnar</summary>
+
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/58724bbe-ceb3-495e-bbd9-3fcb3a275dd8" />
+
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/032490e8-9f5e-45d3-86b1-8a1b95ebc2d5" />
+
  
  </details>
 
