@@ -528,6 +528,10 @@ The speaker is very well aware of the existence and origin of the [Forsworn](htt
    ![image](https://github.com/user-attachments/assets/a35b1683-4b1e-42ae-a8d7-c19c50c6d3c5)
 
   </details>
+
+  ### Brother Halwen
+
+  Myterious wonder healer residing in Lakeshire on the coast to Lake Morrighan. He came into power by aquiring a shard handed to him by one of the apothecaries. Somehow the shard seems to work under his control and does not corrupt the man of faith. He shows no signs of corruption (yet) and if pleaded for he will hand the shard over to the party and thus reliquishing his powers and ability to help the people in need swarming in flocks to Lakeshire. 
   
   ## Outriders
 
