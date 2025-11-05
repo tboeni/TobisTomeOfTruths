@@ -483,6 +483,25 @@ Magister of Solaris, working with the apothecatries for his own goal. He does no
    
   </details>
 
+  ### Yarn Sereth
+
+Once among the most brilliant elementalists of Solaris, Yarn Sereth theorized that fire could be made sentient by binding it to the human soul.
+His early demonstrations awed the Academy — flames that laughed, burned without heat, and sang in echoing tones. But his experiments grew erratic and cruel; apprentices died in ritual immolations meant to “temper” the will of fire itself.
+
+When a full observatory was destroyed in one of his “Ascension Trials,” the Academy expelled him and sealed his research under seven arcane locks.
+The ruins of his laboratory, known as the Ember Hollows, still smolder centuries later.
+
+**Rumor among scholars**: The air near his notes still hums with whispered words — not his, but the fire’s.
+
+  ### Elya Voss
+
+  Elya Voss sought to pierce the veil between waking thought and the collective unconscious — to enter and shape the dreams of others.
+She succeeded, but her success was catastrophic: a group of students entered one of her constructs and never woke again.
+Their bodies persist in perpetual sleep, eyes moving behind sealed lids, murmuring her name.
+
+The Archmages confined Voss deep beneath the Academy, within the Catacombs of the Mindless, where her consciousness is sealed in a containment ward of cold iron and salt.
+Her body remains ageless, her eyes open but unseeing. Some whisper that she still walks the dreams of those who study too close to her old domain.
+
   ## The Church of Ilmather
 
   One of the three pillars of might in Altanarra. The church of Ilmather builds the foundation of faith in the kingdom and preaches sacrifice and endurance as a virtue and necessity for the blessing of Ilmather. Enduring tragedy is but another test of their god and all in his will. The priests will help almost anyone in need, sacrificing their last possesions if must be as it is in the spirit of Ilmather. As this is why often the priests of Ilmather are seem with worn robes and bearly any possessions of their own. The **Cathedral of Salvation**, the most holy place in Altanarra and seat of [The Speaker](), is situated in Retgard to the Northwest. As a consequence, the townsfolk are very pious and the influence of the church can be felt throughout the whole town and its neighboring villages.
