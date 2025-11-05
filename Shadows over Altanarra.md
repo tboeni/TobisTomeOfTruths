@@ -643,7 +643,7 @@ Defacto head of house Helbron since his older brother went missing in action aft
 
 ### House Kiprovski
 
-The brothers Kiprovski are the owners of the family business [Mortar & Pestle]()
+The brothers Kiprovski, Balin and Sergj, are the owners of the family business [Mortar & Pestle]() 
 
 ## Advisors Altanarra
 ### Selinesta 
