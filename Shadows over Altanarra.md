@@ -1,4 +1,4 @@
-# Omnia 
+[Skarn_the_Thin_Stat_Block.pdf](https://github.com/user-attachments/files/23636909/Skarn_the_Thin_Stat_Block.pdf)# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
@@ -714,6 +714,25 @@ This captures his kindness, his awkward dignity, and the way other giants undere
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a9d0909d-2f16-47c0-86c5-3a7653902ae9" />
 
+</details>
+
+### Skarn the Thin
+
+He is everything Kol is not: cautious, calculating, and eloquent (in a rough, gutteral way). Where Kol rules through fear and force, Skarn rules through suggestion — whispering ideas that Kol believes are his own.
+
+He wasn’t always an advisor — once he was a slave interpreter for the hill tribes, bartered between chiefs to parley with men and dwarves. He learned to speak the common tongue fluently, to read scraps of trade parchment, and to lie without flinching.
+
+When Kol rose to power, Skarn saw opportunity. He offered his wit in exchange for protection — and now stands at Kol’s right hand, fanning the flames of his god-complex.
+
+<details>
+ <summary>Skarn</summary>
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1a9555d6-e1e6-4cf4-8022-a0b6855bd94d" />
+
+[Skarn Stat Block](https://drive.google.com/file/d/1-WiBKDIO-Wh-QOZNW-UrGd2P7YhsWQtH/view?usp=sharing)
+
+ 
 </details>
 
 ## Xoathra’lythidraan Morru’qethis, The Dreamless One
