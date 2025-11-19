@@ -704,6 +704,18 @@ Kol has made a deal with the Accord and in exchange for a magic ring (which gran
  
 </details>
 
+### Grum the Trader
+
+Bulky yet soft-spoken, wrapped in patchwork furs and absolutely covered in pouches, trinkets, and trade goods.
+This captures his kindness, his awkward dignity, and the way other giants underestimate him.
+
+<details>
+<summary>Grum</summary>
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a9d0909d-2f16-47c0-86c5-3a7653902ae9" />
+
+</details>
+
 ## Xoathra’lythidraan Morru’qethis, The Dreamless One
 _(pronounced roughly ZOH-ah-thrah-LEETH-ee-drahn MOR-roo-KEH-this)_
 
