@@ -1,4 +1,4 @@
-[Skarn_the_Thin_Stat_Block.pdf](https://github.com/user-attachments/files/23636909/Skarn_the_Thin_Stat_Block.pdf)# Omnia 
+# Omnia 
 
 The plane of existence the adventure takes place. Equivalent of the material plane.
 Omnia is split into 5 different Territories, with differing beliefs, governments and people.
