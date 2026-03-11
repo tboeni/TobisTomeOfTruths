@@ -101,11 +101,11 @@ Requires light crossbow proficiency.
 
 ## Rootwrap Vambraces
 
-Unarmed strikes and natural weapons count as magical for the purpose of overcoming resistance and immunity. (Big upgrade at tier 2 for monks, but consistent with the repeater’s +1 magic property.)
+Unarmed strikes and natural weapons count as magical for the purpose of overcoming resistance and immunity.
 
-Once per turn, when you hit with an unarmed strike/natural attack, you may deal an extra 1d4 bludgeoning damage. (Keeps the “root lash” feel without multiplying damage across every strike.)
+Once per turn, when you hit with an unarmed strike/natural attack, you may deal an extra 1d4 bludgeoning damage.
 
-Earthen Reprisal (1/short rest): As a bonus action, slam the ground. Each creature within 10 ft. must make a DC 14 Strength save or fall prone.
+Earthen Reprisal (1/short rest): As a bonus action, slam the ground. Each creature within 10 ft. must make a DC 13 Strength save or fall prone. Only for creatures your size or below.
 
 <details>
 
