@@ -468,6 +468,12 @@ Magister of Solaris, working with the apothecatries for his own goal. He does no
   <summary>Inquisitor Valk</summary>
    
   </details>
+
+  ### Verskaryn Caul
+  <details>
+  <summary>Veskaryn Caul</summary>
+   
+  </details>
   
   ## Order of the Magi
 
