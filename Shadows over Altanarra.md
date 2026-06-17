@@ -509,6 +509,16 @@ Their bodies persist in perpetual sleep, eyes moving behind sealed lids, murmuri
 The Archmages confined Voss deep beneath the Academy, within the Catacombs of the Mindless, where her consciousness is sealed in a containment ward of cold iron and salt.
 Her body remains ageless, her eyes open but unseeing. Some whisper that she still walks the dreams of those who study too close to her old domain.
 
+## AI:5 
+
+### Coltor Grimm
+
+Instructor of AI:5 recruits.
+
+### Arlo Fray
+
+AI:5 Agent. Originating from Retgard, easy-going and laidback. Assinged to investigate stirrings around Retgard.
+
   ## The Church of Ilmather
 
   One of the three pillars of might in Altanarra. The church of Ilmather builds the foundation of faith in the kingdom and preaches sacrifice and endurance as a virtue and necessity for the blessing of Ilmather. Enduring tragedy is but another test of their god and all in his will. The priests will help almost anyone in need, sacrificing their last possesions if must be as it is in the spirit of Ilmather. As this is why often the priests of Ilmather are seem with worn robes and bearly any possessions of their own. The **Cathedral of Salvation**, the most holy place in Altanarra and seat of [The Speaker](), is situated in Retgard to the Northwest. As a consequence, the townsfolk are very pious and the influence of the church can be felt throughout the whole town and its neighboring villages.
