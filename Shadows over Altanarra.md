@@ -475,6 +475,9 @@ Magister of Solaris, working with the apothecatries for his own goal. He does no
   ### Verskaryn Caul
   <details>
   <summary>Veskaryn Caul</summary>
+
+  The latest and last of the Forsworn. She is devoted to Idris as he was Veskaryns inpsiration for aspiring in the first place.
+  She is stoic, calculated and states the truth even if the truth may be uncomfortable. Veskaryn chose to actively train recruits herself as the only of the Forsworn and she genuinely cares for them, despite not showing it by first glance. Though she is absolutely commited to the cause of the Outriders, she remains curious and considers different angles and options. Her upbringing, though long since over, was humble and everything she has now was earned by blood, sweat and tears. No golden spoon, barely even a wooden one.
    
   </details>
   
