@@ -700,7 +700,10 @@ The brothers Kiprovski, Balin and Sergj, are the owners of the family business [
 ## Advisors Altanarra
 ### Selinesta 
 
-### Nelic 
+### Nelic Skorre
+
+Nelic is the courtmage of Westemar. Confidant to Prelate Edran Solme - The High Voice - which he is unaware of. He originates from Hyllestand and is about 40 years of age. 
+He puts himself in a surprisingly and refreshingly brutish manner that is unexpected from a scholar of his standing. Maybe it is the very vain effort of keeping a little bit of his past that he had to leave behind in the snowy plains of Hyllestad.
 
 ### Eneth 
 
