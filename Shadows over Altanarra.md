@@ -202,7 +202,7 @@ The creature carries a shard of the [Phylactery]() inside the edge of its forehe
 The mostly nomadic Goldtooth tribe has made a somewhat stationary camp near the bent of Jher River. Large tents resembling huts and a huge fire pit make the bulk of the camp. About a dozen hill giants call this their home. Modest trade can be done at the encampment, mostly interested in food, gold or other luxurious good they will offer either items they had previously traded from other travellers or merchants or offer safe passage through their lands often with the giant that has been traded with acting as a bodyguard for the travellers..
 
 ### Cave Laboratory
-Not far to the East of the Goldtooth camp in the middle of giant land, the Sepulchral Accord has established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
+Not far to the East of the Goldtooth camp in the middle of giant land, the Covenant has established an experimentation site in a cave. Inside are a number of shelves and desks filled with mostly ruined reagents. In the middle of the chamber is a operation table conncted to a contraption holding one of the phylactery shards. The table is splattered with blood and other dried liquids. Corpses litter the floor, torn and pummeled, and among them lies a sliced monstrosity, a humanoid resembling abomination stitched togther from various people. At the corners of the room stand two inanimate suits of armor. These **Helmed Horrors** do only activate if someone tries to take the shard upon which they will engage immediately.
 Among the ruined reagents and vials lies a stained note from an unknown ([Velcor, The High Voice](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#velcor-the-high-voice) urging the leading apothecary to be thorough as the success of these experiments is crucial for their success.
 
 <details>
@@ -382,7 +382,7 @@ Also referred to often simply as "The Academy", Seydir Academy is the one and on
 
   ## The Collegium
   
-  ## The Sepulchral Accord
+  ## The Covenant
   Fanatics trying to somehow bring back the endtimes and restore the former lich-ascendant back to unlive. Led by their high apostle they aim to gather the shards of Szurs Phylactery for a dark ritual. The [High Inquisitors](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) are aware of their plans but do not plan on intervening before they have gathered all or enough of these shards, as their creed to protected Altanarra from the undead scourge means to use every resource available, even if it means to use the dark magics still lingering in the shattered phylactery (They mean to consume the power of the souls still stored in the fragments to empower themselves further).
   The Cult occupied small hideouts all over Altanarra. 
 
@@ -393,9 +393,9 @@ Also referred to often simply as "The Academy", Seydir Academy is the one and on
 * The High Voice (Defacto High Cultist and Leader)
 
 <details>
- <sumamry>Symbol of the Sepulchral Accord</sumamry>
+ <sumamry>Symbol of the Covenant</sumamry>
 
- ![Symbol of the Sepulchral Accord](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
+ ![Symbol of the Covenant](https://github.com/user-attachments/assets/e5a0372b-277e-4da1-a696-c0a2f95a6b99)
 
 </details>
 
@@ -781,7 +781,7 @@ An ancient alien being that was before anything, that will be when nothing else 
 
 ### Lothar Vargrecht, The Keeper
 
-Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He fled Dredgewatch as he felt the Sepulchlar Accord closing in on his location. He used his latent connection to the ancient Xoathra to invoke a storm that aimed to partially sink the chapel to make its secrets even harder to access and possibly buy him time to either hide away or come up with a solution to get rid of the problem(s).
+Keeper of the Vault that holds the key to undo Ilmathers shackles on Xoathra. He fled Dredgewatch as he felt the Covenant closing in on his location. He used his latent connection to the ancient Xoathra to invoke a storm that aimed to partially sink the chapel to make its secrets even harder to access and possibly buy him time to either hide away or come up with a solution to get rid of the problem(s).
 
 
 ## Antonio the Travelling Merchant
