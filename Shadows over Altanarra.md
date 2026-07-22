@@ -399,12 +399,19 @@ Also referred to often simply as "The Academy", Seydir Academy is the one and on
 
 </details>
 
-### Velcor, The High Voice
+### Edran Solme - The High Voice
 
-Leader of the Sepulchral Accord. His goal is to fulfill his dark masters once foiled plans and to create a kingdom (and later world) where the undead rule for eternity. To accomplish this and by proxy ascending to lichdom himself, he uses his followers to gather the lost splinters of Szurs Phylactery. The apothecaries at his command try to find ways of harnessing the latent powers in the shards to convert them into magic usable for dark creations to further bolster his forces with undead monstrosities and also a way of expediting the ritual needed to become a lich
+Prelate Edran Solme is a grey-haired man in his sixties looking a bit younger than his age would suggest. A weathered face that has seen many seasons in the field doing labor rather than the inside of a chapel focused on prayer. Solme is incredibly devout. Devout to the teachings of Ilmather upholding them without question. Maybe also due to this devotion, he rose quickly through the ranks of the clergy - became a Deacon at an incredibly early age just barely a man. 
+And another promotion was in line just mere years after that - a lot earlier than most - due to his efforts that he put into the community where he was a deacon, close Retgard. The promotion to a canon would have sent him off to a town close to Hearth and that is why he declined. Solme stayed in the community as a deacon to help them rebuild the village after a recent storm had damaged or even destroyed many of the homes. A story that has been shared by teachers of the faith as an exemplary display of living the teachings of Ilmather. Coincidally, this had earned him even more respect and favored the ascension to canon and ultimately prelate. 
+
+Becoming a prelate and then an advisor to The Speaker and confidant to the courtmage Nelic Skorre has lead him down the path of becoming part of an inner circle allowed secret and well guarded knowledge. This knowledge included the ascension of Ilmather to full godhood and thus the existence and imprisonment of Xaortha (and incidentally the creation of the Death Dream). This fundamentally changed the way Solme saw his god but not the teachings, he saw Ilmather himself as imperfect. 
+
+Canon Oswen Frey — the priest who recognised Solme at eight or nine, shepherded every stage of his advancement, shared forty years of quiet mutual devotion to Ilmather's teachings rather than to each other personally. Carried a shard for eleven years while Solme watched him become something subtly more certain, more luminous, more at peace than seemed entirely natural. Confessed everything on his deathbed and surrendered the Pyre Relic to the only person he trusted with it. The Relic being a shard of Szur's Phylactery had not the same effect on his new owner. The absolute conviction of Solme warded him against the intrusions of the Pyre Relic and almost turned it into something new. Not quite divine but neither necromantic. But what happened is that his devotion became even more intense, the devotion towards the teachings and that meant that errors need to be corrected. 
+Years later Solme came into contact with a published work of somebody who has been deemed untrust worthy as an Academic. This work talked about god-like beings and a pre-Ilmather period that ended with him introducing order to the plane. Solme consumed the other works of this Coven Mirth which included some insane fantasies but also some that were intriguing as for the Phylactery shards being thrown across the kingdom when it was shattered. He contacted Mirth and they exchanged many letters and this convinced Solme to start looking for such a shard, he felt that what he thought to be the Pyre Relic was in fact a part of Szurs Phylactery. His trustee Mourne was sent to uncover such a shard, guided by an educated guess of the crazed Mirth, he indeed found one.
+Careful studies of the properties confirmed it, the Pyre Relic and the shard were of the same origin, yet different. But this meant to Solme that it's power can be harnessed and wrongs can be righted. For that he needs more shards, knowledge and a network. And this is what he built in years of genuine work on the side of his clerigal duties, Solme built the Covenant. Recruited people walking close to the brink of insanity and curiosity. 
 
 <details>
- <summary>Velcor, The High Voice</summary>
+ <summary>Edgan Solme - The High Voice</summary>
  
 
 </details>
