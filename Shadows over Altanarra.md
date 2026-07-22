@@ -540,6 +540,28 @@ AI:5 Agent. Originating from Retgard, easy-going and laidback. Assinged to inves
  <summary>Cathedral of Salvation</summary>
 </details>
 
+### The Hierachical Structure of the Clergy
+
+<details>
+ <summary>Ranks of the Clergy</summary>
+
+### The Speaker
+Veiled, faceless, the living voice of Ilmather's will. Red, white and gold. The glowing concealment detail is excellent — not hidden exactly, transformed, which is theologically appropriate for someone who claims to channel divine will directly. The party should probably never interact with The Speaker directly, at least not yet. Their presence should be felt through the institution rather than through direct encounter.
+
+### Prelate
+The senior administrative tier. Prelates govern provinces or significant institutions. The equivalent of a Cardinal in terms of weight without the Catholic specificity. Edran Solme could be a Prelate — it carries enough authority to access the sealed archive while not being so elevated he's untouchable.
+
+### Canon
+The working senior clergy. Canons administer temples, lead congregations, handle the Church's daily function. The people the party is most likely to interact with in Ilmather's institutional presence.
+
+### Deacon
+Junior clergy, initiates to the higher mysteries. The equivalent of a priest in functional terms.
+
+### The Keeper of Seals
+Not a rank but a role, held by one specific individual within the Prelate tier at any given time. The person who administers the restricted archive and performs the ritual of disclosure when a new official is read in. Edran would know who the current Keeper of Seals is. The party probably wouldn't, unless they dig.
+ 
+</details>
+
 ### The Speaker
  Chosen presumably by Ilmather himself to be his voice on the material plane. The Speaker has given up his former name and allegiances to fully embrace his divine calling of leading the church in the name and will of Ilmather and guiding all the lost souls of Altanarra and the whole of Omnia to salvation. Most people have only seen glimpses of him when he speaks with a booming voice filled with divine power to the people of Altanarra. His face and body hidden by an unpiercable veil his former identity remains a mystery.
 The speaker is very well aware of the existence and origin of the [Forsworn](https://github.com/tboeni/TobisTomeOfTruths/blob/main/Shadows%20over%20Altanarra.md#forsworn) and has deemed their sacrifice as worthy of Ilmathers mercy.
