@@ -128,19 +128,21 @@ If you die while attuned, your body rapidly grows mushrooms and reanimates as a 
 
 </details>
 
-<details>
-
 ## Stromcaller's Staff
 
-Passive — Storm Resonance: +1 spell attacks, +2 outdoors in precipitation. Wire heats, glass holds light on lightning/thunder spells.
+Passive — Storm Resonance: +1 spell attacks, +2 outdoors in precipitation.
 
 Passive — Resistance Breaker: Lightning/thunder ignores resistance, pierces immunity to resistance.
 
-Passive — Sorcery Point Recovery (revised): When Mara spends a Sorcery Point and then rolls maximum damage on one or more dice of that spell, she recovers the spent point. Once per turn. Reward for committed, empowered casting rather than passive generation.
+Passive — Sorcery Point Recovery (revised): When a Sorcery Point is spent and then rolls maximum damage on one or more dice of that spell, she recovers the spent point. Once per Short Rest.
 
 Active — Call Lightning (1 charge, regains at dawn): Cast Call Lightning as a 3rd level spell without expending a spell slot. Duration and mechanics as normal. The staff is the storm's anchor.
 
-Active — Eye of the Storm (1 charge, regains at dawn): Concentration, cast as an action by striking the staff into solid ground. Staff must remain planted — she can move but the zone is fixed to the strike point, not her. No flying. 30ft radius, 1 minute. Her lightning/thunder range +30ft, ranged attacks against her from outside have disadvantage, 1d6 lightning discharge to one visible creature in zone at start of each of her turns. Ends if she loses concentration or moves more than 60ft from the staff.
-  
+Active — Eye of the Storm (1 charge, regains at dawn): Concentration, cast as an action by striking the staff into solid ground. Staff must remain planted — the aster can move but the zone is fixed to the strike point, not the caster. 30ft radius, lasts for 1 minute. Lightning/thunder spells have +30ft range, ranged attacks against the caster from outside have disadvantage, 1d6 lightning discharge to one visible creature in zone at start of each of her turns. Ends if concentration is lost or the caster moves more than 60ft from the staff.
+
+<details>
+
+<img width="1024" height="1024" alt="Stormcaller&#39;s Staff" src="https://github.com/user-attachments/assets/5ad226fe-7644-4084-a44f-ddb4997d094e" />
+
 </details>
 
