@@ -134,11 +134,11 @@ Passive — Storm Resonance: +1 spell attacks, +2 outdoors in precipitation.
 
 Passive — Resistance Breaker: Lightning/thunder ignores resistance, pierces immunity to resistance.
 
-Passive — Sorcery Point Recovery (revised): When a Sorcery Point is spent and then rolls maximum damage on one or more dice of that spell, she recovers the spent point. Once per Short Rest.
+Passive — Sorcery Point Recovery (revised): When a Sorcery Point is spent and then rolls maximum damage on one or more dice of that spell, the caster recovers the spent point. Once per Short Rest.
 
 Active — Call Lightning (1 charge, regains at dawn): Cast Call Lightning as a 3rd level spell without expending a spell slot. Duration and mechanics as normal. The staff is the storm's anchor.
 
-Active — Eye of the Storm (1 charge, regains at dawn): Concentration, cast as an action by striking the staff into solid ground. Staff must remain planted — the aster can move but the zone is fixed to the strike point, not the caster. 30ft radius, lasts for 1 minute. Lightning/thunder spells have +30ft range, ranged attacks against the caster from outside have disadvantage, 1d6 lightning discharge to one visible creature in zone at start of each of her turns. Ends if concentration is lost or the caster moves more than 60ft from the staff.
+Active — Eye of the Storm (1 charge, regains at dawn): Concentration, cast as an action by striking the staff into solid ground. Staff must remain planted — the caster can move but the zone is fixed to the strike point, not the caster. 30ft radius, lasts for 1 minute. Lightning/thunder spells have +30ft range, ranged attacks against the caster from outside have disadvantage, 1d6 lightning discharge to one visible creature in zone at start of each of her turns. Ends if concentration is lost or the caster moves more than 60ft from the staff.
 
 <details>
 
